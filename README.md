@@ -22,4 +22,4 @@ If You have got a Linkedin account, you can link up with me via this link.
 
 [![Linkedin Badge](https://img.shields.io/badge/BurakBoduroglu-Contact-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/burakboduroglu/) 
 
-![ProgrammingLanguages](https://user-images.githubusercontent.com/80620802/116823340-9811b300-ab8c-11eb-972e-fe7651d85458.png)
+![ProgramminLanguages](https://user-images.githubusercontent.com/80620802/116823668-5eda4280-ab8e-11eb-880e-ffa3f0e551f6.png)
