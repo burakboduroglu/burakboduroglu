@@ -1,8 +1,16 @@
 ### Hi! I'm Burak Welcome to My GitHub Page⚡😄👋
+```Python
+print("Welcome to My Page")
+```
+### Who am I?
+```csharp
+Console.WriteLine("I'm student at Computer Engineering and also Web Design and Coding.");
+```
 
+```c
+printf("Thanks for visited my GitHub Page.");
+```
 
-
-I'm student at Computer Engineering and also Web Design and Coding. Thanks for visited my GitHub Page.
 ### About My GitHub Pages :man_technologist:
 ![Burak's GitHub stats](https://github-readme-stats.vercel.app/api?username=BurakBoduroglu&show_icons=true&theme=onedark)
 ![Most Used Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=BurakBoduroglu&layout=compact&theme=onedark)
@@ -19,7 +27,9 @@ I'm student at Computer Engineering and also Web Design and Coding. Thanks for v
 
 ### Contact Me📫
 
-If You have got a Linkedin account, you can link up with me via this link.
+``` Java
+System.out.println("If You have got a Linkedin account, you can link up with me via this link.");
+```
 
 [![Linkedin Badge](https://img.shields.io/badge/BurakBoduroglu-Contact-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/burakboduroglu/) 
 
