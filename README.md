@@ -1,4 +1,4 @@
-### Hi! I'm Burak Welcome to My GitHub Page⚡😄👋
+### Hi! I'm Burak Welcome to My GitHub Page⚡👋
 ```Python
 print("Welcome to My Page")
 ```
@@ -10,6 +10,11 @@ Console.WriteLine("I'm student at Computer Engineering and also Web Design and C
 ```c
 printf("Thanks for visited my GitHub Page.");
 ```
+### My Personal Web Page😄
+```javascript
+console.log("For my web page use this below link");
+```
+[![Linkedin Badge](https://img.shields.io/badge/BurakBoduroglu-WebPage-blue?style=for-the-badge&logo=)](https://burakboduroglu.github.io/) 
 
 ### About My GitHub Pages :man_technologist:
 ![Burak's GitHub stats](https://github-readme-stats.vercel.app/api?username=BurakBoduroglu&show_icons=true&theme=onedark)
