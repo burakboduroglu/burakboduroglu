@@ -14,7 +14,8 @@ printf("Thanks for visited my GitHub Page.");
 ```javascript
 console.log("For my web page use this below link");
 ```
-[![Linkedin Badge](https://img.shields.io/badge/BurakBoduroglu-WebPage-blue?style=for-the-badge&logo=)](https://burakboduroglu.github.io/) 
+[![Badge](https://img.shields.io/badge/BurakBoduroglu-WebPage-blue?style=for-the-badge&logo=)](https://burakboduroglu.github.io/) 
+[![Badge](https://img.shields.io/badge/BurakBoduroglu-PatikaDev-blue?style=for-the-badge&logo=)](https://app.patika.dev/BurakBoduroglu/) 
 
 ### About My GitHub Pages :man_technologist:
 ![Burak's GitHub stats](https://github-readme-stats.vercel.app/api?username=BurakBoduroglu&show_icons=true&theme=onedark)
