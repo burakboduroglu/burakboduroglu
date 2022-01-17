@@ -1,6 +1,6 @@
 ### Hi! I'm Burak Welcome to My GitHub Page⚡👋
 ```Python
-print("Welcome to My Page")
+print("Welcome to My Page. I am sharing some of my project here.")
 ```
 ### Who am I?
 ```csharp
