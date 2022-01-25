@@ -20,6 +20,8 @@ console.log("For my web page use this below link");
 ### About My GitHub Pages :man_technologist:
 ![Burak's GitHub stats](https://github-readme-stats.vercel.app/api?username=BurakBoduroglu&show_icons=true&theme=onedark)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BurakBoduroglu&theme=tokyonight)
+
 
 ### My Languages and Tools🌱🔭
 ![](https://img.shields.io/badge/Languages-Java-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
