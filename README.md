@@ -4,7 +4,7 @@ print("Welcome to My Page. I am sharing some of my project here.")
 ```
 ### Who am I?
 ```csharp
-Console.WriteLine("I'm student at Computer Engineering and also Web Design and Coding.");
+Console.WriteLine("I'm student at Computer Engineering and I am interested in Java, C# and Python");
 ```
 
 ```c
