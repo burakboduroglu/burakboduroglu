@@ -1,10 +1,10 @@
 ### Hi! I'm Burak Welcome to My GitHub Page⚡👋
 ```Python
-print("Welcome to My Page. I am sharing some of my project here.")
+console.WriteLine("Welcome to My Page. I am sharing some of my project here.");
 ```
 ### Who am I?
 ```csharp
-Console.WriteLine("I'm student at Computer Engineering and I am interested in Java, C# and Python");
+print("I'm student at Computer Engineering and I am interested in Java, C# and Python")
 print("I am also interested in AI, Data Science, Machine Learning and Data Visulation")
 ```
 
