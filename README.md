@@ -18,6 +18,8 @@ console.log("For my web page use this below link");
 [![Badge](https://img.shields.io/badge/BurakBoduroglu-WebPage-blue?style=for-the-badge&logo=)](https://burakboduroglu.github.io/) 
 [![Badge](https://img.shields.io/badge/BurakBoduroglu-Kaggle-blue?style=for-the-badge&logo=)](https://www.kaggle.com/burakboduroglu) 
 
+#### You can reach my other account and page via my website.😄
+
 ### About My GitHub Pages :man_technologist:
 ![Burak's GitHub stats](https://github-readme-stats.vercel.app/api?username=BurakBoduroglu&show_icons=true&theme=onedark)
 
