@@ -2,6 +2,7 @@
 ```Python
 console.WriteLine("Welcome to My Page. I am sharing some of my project here.");
 ```
+![Profile Views](https://komarev.com/ghpvc/?username=BurakBoduroglu)
 ### Who am I?
 ```csharp
 print("I'm student at Computer Engineering and I am interested in Java, C# and Python")
@@ -11,12 +12,17 @@ print("I am also interested in AI, Data Science, Machine Learning and Data Visul
 ```c
 printf("Thanks for visited my GitHub Page.");
 ```
-### My Personal Web Page😄
+### My Personal Pages😄
 ```javascript
-console.log("For my web page use this below link");
+console.log("For my pages");
 ```
-[![Badge](https://img.shields.io/badge/BurakBoduroglu-WebPage-blue?style=for-the-badge&logo=)](https://burakboduroglu.github.io/) 
-[![Badge](https://img.shields.io/badge/BurakBoduroglu-Kaggle-blue?style=for-the-badge&logo=)](https://www.kaggle.com/burakboduroglu) 
+[![Web Badge](https://img.shields.io/badge/My-WebPage-blue?style=for-the-badge&logo=googleearth)](https://burakboduroglu.github.io/) 
+[![Kaggle Badge](https://img.shields.io/badge/My-Kaggle-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/burakboduroglu) 
+[![Medium Badge](https://img.shields.io/badge/My-medium-blue?style=for-the-badge&logo=medium)](https://medium.com/@burboduroglu)
+[![DataCamp Badge](https://img.shields.io/badge/My-datacamp-blue?style=for-the-badge&logo=datacamp)](https://www.datacamp.com/profile/burboduroglu)
+[![Twitter Badge](https://img.shields.io/badge/My-twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/burboduroglu)
+[![HackerRank Badge](https://img.shields.io/badge/My-hackerrank-blue?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/burak_boduroglu)
+[![FreeCodeCamp Badge](https://img.shields.io/badge/My-freecodecamp-blue?style=for-the-badge&logo=freecodecamp)](https://www.freecodecamp.org/burakboduroglu)
 
 #### You can reach my other account and page via my website.😄
 
@@ -37,6 +43,8 @@ console.log("For my web page use this below link");
 ![](https://img.shields.io/badge/Tools-VisualStudioCode-9cf)
 ![](https://img.shields.io/badge/Tools-VisualStudio-9cf)
 ![](https://img.shields.io/badge/Tools-Eclipse-9cf)
+![](https://img.shields.io/badge/Tools-JupyterNotebook-9cf)
+
 
 ### Contact Me📫
 
