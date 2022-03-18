@@ -20,7 +20,6 @@ console.log("For my pages");
 [![Kaggle Badge](https://img.shields.io/badge/My-Kaggle-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/burakboduroglu) 
 [![Medium Badge](https://img.shields.io/badge/My-medium-blue?style=for-the-badge&logo=medium)](https://medium.com/@burboduroglu)
 [![DataCamp Badge](https://img.shields.io/badge/My-datacamp-blue?style=for-the-badge&logo=datacamp)](https://www.datacamp.com/profile/burboduroglu)
-[![Twitter Badge](https://img.shields.io/badge/My-twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/burboduroglu)
 [![HackerRank Badge](https://img.shields.io/badge/My-hackerrank-blue?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/burak_boduroglu)
 [![FreeCodeCamp Badge](https://img.shields.io/badge/My-freecodecamp-blue?style=for-the-badge&logo=freecodecamp)](https://www.freecodecamp.org/burakboduroglu)
 
