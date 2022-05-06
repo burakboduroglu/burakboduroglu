@@ -17,7 +17,7 @@ printf("Thanks for visited my GitHub Page.");
 console.log("For my pages");
 ```
 [![Web Badge](https://img.shields.io/badge/My-WebPage-blue?style=for-the-badge&logo=googleearth)](https://burakboduroglu.github.io/) 
-[![JetBrains Badge](https://img.shields.io/badge/My-JetBrains-blue?style=for-the-badge&logo=kaggle)](https://hyperskill.org/profile/256138814) 
+[![JetBrains Badge](https://img.shields.io/badge/My-JetBrains-blue?style=for-the-badge&logo=jetbrains)](https://hyperskill.org/profile/256138814) 
 [![Medium Badge](https://img.shields.io/badge/My-medium-blue?style=for-the-badge&logo=medium)](https://medium.com/@burboduroglu)
 [![DataCamp Badge](https://img.shields.io/badge/My-datacamp-blue?style=for-the-badge&logo=datacamp)](https://www.datacamp.com/profile/burboduroglu)
 [![HackerRank Badge](https://img.shields.io/badge/My-hackerrank-blue?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/burak_boduroglu)
@@ -39,11 +39,9 @@ console.log("For my pages");
 ![](https://img.shields.io/badge/Languages-HTML-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 ![](https://img.shields.io/badge/Languages-SQL-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 ![](https://img.shields.io/badge/Languages-CSS-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/Tools-JetBrains-9cf)
 ![](https://img.shields.io/badge/Tools-VisualStudioCode-9cf)
 ![](https://img.shields.io/badge/Tools-VisualStudio-9cf)
-![](https://img.shields.io/badge/Tools-Eclipse-9cf)
-![](https://img.shields.io/badge/Tools-JupyterNotebook-9cf)
-
 
 ### Contact Me📫
 
