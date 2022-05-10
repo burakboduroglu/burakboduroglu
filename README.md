@@ -20,7 +20,7 @@ console.log("For my pages");
 [![JetBrains Badge](https://img.shields.io/badge/My-JetBrains-blue?style=for-the-badge&logo=jetbrains)](https://hyperskill.org/profile/257680927) 
 [![Medium Badge](https://img.shields.io/badge/My-medium-blue?style=for-the-badge&logo=medium)](https://medium.com/@burboduroglu)
 [![HackerRank Badge](https://img.shields.io/badge/My-hackerrank-blue?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/burak_boduroglu)
-
+[![DataCamp Badge](https://img.shields.io/badge/My-datacamp-blue?style=for-the-badge&logo=datacamp)](https://www.datacamp.com/profile/burakboduroglu)
 
 #### You can reach my other account and page via my website.😄
 
