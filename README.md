@@ -21,6 +21,8 @@ console.log("For my pages");
 [![Medium Badge](https://img.shields.io/badge/My-medium-blue?style=for-the-badge&logo=medium)](https://medium.com/@burboduroglu)
 [![HackerRank Badge](https://img.shields.io/badge/My-hackerrank-blue?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/burak_boduroglu)
 [![DataCamp Badge](https://img.shields.io/badge/My-datacamp-blue?style=for-the-badge&logo=datacamp)](https://www.datacamp.com/profile/burakboduroglu)
+[![FreeCodeCamp Badge](https://img.shields.io/badge/My-freecodecamp-blue?style=for-the-badge&logo=freecodecamp)](https://www.freecodecamp.org/BurakBoduroglu)
+
 
 #### You can reach my other account and page via my website.😄
 
