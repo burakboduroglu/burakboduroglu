@@ -6,7 +6,7 @@ console.WriteLine("Welcome to My Page. I am sharing some of my project here.");
 ### Who am I?
 ```csharp
 print("I'm student at Computer Engineering and I am interested in Java, C# and Python")
-print("I am also interested in AI, Data Science, Machine Learning and Data Visulation")
+print("I am also interested in Web Development and Software Development")
 ```
 
 ```c
