@@ -32,6 +32,7 @@ print("I'm student at Computer Engineering and I am interested in Web Developmen
 <img src="https://user-images.githubusercontent.com/80620802/197776701-87c1a5f2-55be-41e4-a81b-5ca08555e0c5.png" alt="spring">
 <img src="https://user-images.githubusercontent.com/80620802/197777668-4b581863-9b62-44f1-bd68-e8d2c2a4713a.png" alt="vs-code">
 <img src="https://user-images.githubusercontent.com/80620802/197777886-2cd1a200-d381-4f78-ad8d-cd6d1122c5dd.png" alt="vs">
+<img src="https://user-images.githubusercontent.com/80620802/197856031-cc8d3082-5809-4bb3-89f7-ff534d76c2e0.png" alt="postgre">
 <img src="https://user-images.githubusercontent.com/80620802/197778831-45e9eb17-f92b-4199-be26-b7299b6c45d8.png" alt="maven", width=120px, height=85px>
 </p>
 
