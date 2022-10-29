@@ -2,8 +2,9 @@
 ```csharp
 console.WriteLine("Welcome to My Page. I share my projects in here.");
 ```
-### I have 5 reporsitory
+### I have 6 reporsitory
 - Kodlama.ioHM contains my Kodlama.io homeworks and projects like Backend with Java. (Spring)
+- ProgrammingNotes contains my programming notes and examples like Spring, Hibernate, MongoDB...
 - PatikaDevHM contains my PatikaDev homeworks and projects like Google web page design. 
 - BurakBoduroglu contains my personal readme document.
 - BurakBoduroglu.github.io contains my web page codes.
