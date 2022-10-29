@@ -35,6 +35,8 @@ print("I'm student at Computer Engineering and I am interested in Web Developmen
 <img src="https://user-images.githubusercontent.com/80620802/197777886-2cd1a200-d381-4f78-ad8d-cd6d1122c5dd.png" alt="vs">
 <img src="https://user-images.githubusercontent.com/80620802/197856031-cc8d3082-5809-4bb3-89f7-ff534d76c2e0.png" alt="postgre">
 <img src="https://user-images.githubusercontent.com/80620802/197778831-45e9eb17-f92b-4199-be26-b7299b6c45d8.png" alt="maven", width=120px, height=85px>
+<img src="https://user-images.githubusercontent.com/80620802/198851961-54cfc97e-a0e1-4cdd-be52-7de9bb8a7523.png" alt="js">
+</br>
 </p>
 
 ### About My GitHub Pages :man_technologist:
