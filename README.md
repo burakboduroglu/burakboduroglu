@@ -28,7 +28,6 @@ print("I'm student at Computer Engineering and I am interested in Web Developmen
 <img src="https://user-images.githubusercontent.com/80620802/197774068-e36e8d5c-ea0e-49c1-9886-88af2397ad81.png" alt="css">
 <img src="https://user-images.githubusercontent.com/80620802/197774374-7d65377e-7f68-4cc4-a719-ceda94f59c88.png" alt="mysql">
 <img src="https://user-images.githubusercontent.com/80620802/197774559-f6b0973b-10a1-4fe3-af84-d228b99cd4a5.png" alt="mongodb">
-</br>
 <img src="https://user-images.githubusercontent.com/80620802/204745717-cace7ad5-a33c-441e-9c06-d494c53d11d3.png" alt="node.js">
 <img src="https://user-images.githubusercontent.com/80620802/197775431-c3145cb6-03b1-4480-93dc-eccaa7222e2e.png" alt="c">
 <img src="https://user-images.githubusercontent.com/80620802/197775701-e2cffaa2-b9fd-4e5f-bf49-bcc7b2bd7f34.png" alt="hibernate", width=85px, height=85px>
