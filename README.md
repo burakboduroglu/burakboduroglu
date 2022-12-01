@@ -40,9 +40,8 @@ print("I'm student at Computer Engineering and I am interested in Web Developmen
 </p>
 
 ### About My GitHub Pages :man_technologist:
-![Burak's GitHub stats](https://github-readme-stats.vercel.app/api?username=BurakBoduroglu&show_icons=true&theme=onedark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BurakBoduroglu&theme=tokyonight)
+![Burak's GitHub stats](https://github-readme-stats.vercel.app/api?username=BurakBoduroglu&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BurakBoduroglu&layout=compact&theme=gruvbox)
 
 ### My Personal Links😄 Contact Me📫
 ```javascript
@@ -64,6 +63,6 @@ System.out.println("You can link up with me via this link.");
 printf("Thanks for visited my GitHub Page.");
 ```
 <p align="center">
-<img src="https://user-images.githubusercontent.com/80620802/116823668-5eda4280-ab8e-11eb-880e-ffa3f0e551f6.png" alt="jetbrains">
+<img src="https://user-images.githubusercontent.com/80620802/116823668-5eda4280-ab8e-11eb-880e-ffa3f0e551f6.png" alt="logos">
 </p>
 
