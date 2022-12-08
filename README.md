@@ -1,23 +1,30 @@
 # Hi! I'm Burak Welcome to My GitHub Page⚡👋
+
 ```csharp
 console.WriteLine("Welcome to My Page. I share my projects in here.");
 ```
+
 ### I have 6 reporsitory
+
 - Kodlama.ioHM contains my Kodlama.io homeworks and projects like Backend with Java. (Spring)
 - ProgrammingNotes contains my programming notes and examples like Spring, Hibernate, MongoDB...
-- PatikaDevHM contains my PatikaDev homeworks and projects like Google web page design. 
+- PatikaDevHM contains my PatikaDev homeworks and projects like Google web page design.
 - BurakBoduroglu contains my personal readme document.
 - BurakBoduroglu.github.io contains my web page codes.
 - PersonalProjects contains my personal projects like game, management systems and more.
 
 ### Who am I?
+
 ```python
 print("I'm student at Computer Engineering and I am interested in Web Development and Software Development")
 ```
+
 ### My View Stats
+
 ![Profile Views](https://komarev.com/ghpvc/?username=BurakBoduroglu)
 
 ### My Languages and Tools🌱🔭
+
 <table width="450px">
     <tbody>
         <tr valign="top">
@@ -83,19 +90,22 @@ print("I'm student at Computer Engineering and I am interested in Web Developmen
 </table>
 
 ### About My GitHub Pages
+
 ![Burak's GitHub stats](https://github-readme-stats.vercel.app/api?username=burakboduroglu&show_icons=true&theme=gruvbox)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burakboduroglu&layout=compact&theme=gruvbox)
 
 ### Contact Me📫
+
 ```javascript
 console.log("You can reach my other account and page via my website 😄");
 ```
-[![Web Badge](https://img.shields.io/badge/My-WebPage-blue?style=for-the-badge&logo=googleearth)](https://burakboduroglu.github.io/) 
+
+[![Web Badge](https://img.shields.io/badge/My-WebPage-blue?style=for-the-badge&logo=googleearth)](https://burakboduroglu.github.io/)
 
 ```c
 printf("Thanks for visited my GitHub Page.");
 ```
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/80620802/116823668-5eda4280-ab8e-11eb-880e-ffa3f0e551f6.png" alt="logos">
 </p>
-
