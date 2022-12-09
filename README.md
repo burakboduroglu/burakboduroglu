@@ -38,11 +38,11 @@ print("I'm student at Computer Engineering and I am interested in Web Developmen
             </td>
             <td width="115px" align="center">
             <span><strong>HTML</strong></span><br>
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+            <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
             </td>
             <td width="115px" align="center">
             <span><strong>CSS</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+            <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
             </td>
           <td width="115px" align="center">
             <span><strong>Javascript</strong></span><br>
@@ -54,7 +54,7 @@ print("I'm student at Computer Engineering and I am interested in Web Developmen
             </td>
           <td width="115px" align="center">
             <span><strong>NodeJS</strong></span><br>
-            <img height="32px" src="https://user-images.githubusercontent.com/80620802/204745717-cace7ad5-a33c-441e-9c06-d494c53d11d3.png">
+            <img height="35px" src="https://user-images.githubusercontent.com/80620802/204745717-cace7ad5-a33c-441e-9c06-d494c53d11d3.png">
             </td>
         </tr>
         <tr valign="top">
@@ -63,12 +63,12 @@ print("I'm student at Computer Engineering and I am interested in Web Developmen
             <img height="30px" src="https://user-images.githubusercontent.com/80620802/197775701-e2cffaa2-b9fd-4e5f-bf49-bcc7b2bd7f34.png">
             </td>
             <td width="115px" align="center">
-            <span><strong>Postgre</strong></span><br>
+            <span><strong>PostgreSQL</strong></span><br>
             <img height="32px" src="https://user-images.githubusercontent.com/80620802/197856031-cc8d3082-5809-4bb3-89f7-ff534d76c2e0.png">
             </td>
             <td width="115px" align="center">
             <span><strong>GitHub</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+            <img height="32px" src="https://img.icons8.com/3d-fluency/512/github.png">
             <td width="115px" align="center">
             <span><strong>VS Code</strong></span><br>
             <img height="32px" src="https://user-images.githubusercontent.com/80620802/197777668-4b581863-9b62-44f1-bd68-e8d2c2a4713a.png">
