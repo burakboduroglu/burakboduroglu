@@ -1,7 +1,7 @@
 # Hi! I'm Burak Welcome to My GitHub Page⚡👋
 
-```csharp
-console.WriteLine("Welcome to My Page. I share my projects in here.");
+```java
+System.out.println("Welcome to My Page. I share my projects in here.");
 ```
 
 ### I have 6 reporsitory
@@ -15,8 +15,8 @@ console.WriteLine("Welcome to My Page. I share my projects in here.");
 
 ### Who am I?
 
-```python
-print("I'm student at Computer Engineering and I am interested in Web Development and Software Development")
+```Javascript
+console.log("I'm student at Computer Engineering and I am interested in Web Development and Software Development");
 ```
 
 ### My View Stats
@@ -102,8 +102,8 @@ console.log("You can reach my other account and page via my website 😄");
 
 [![Web Badge](https://img.shields.io/badge/My-WebPage-blue?style=for-the-badge&logo=googleearth)](https://burakboduroglu.github.io/)
 
-```c
-printf("Thanks for visited my GitHub Page.");
+```java
+System.out.println("Thanks for visited my GitHub Page.");
 ```
 
 <p align="center">
