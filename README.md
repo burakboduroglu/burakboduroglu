@@ -17,7 +17,7 @@ System.out.println("Welcome to My Page. I share my projects in here.");
 ### Who am I?
 
 ```Javascript
-console.log("I'm student at Computer Engineering and I am interested in Web Development and Software Development");
+console.log("I'm student at Computer Engineering. I am interested in Web Development and Software Development");
 ```
 
 ### My View Stats
