@@ -98,11 +98,15 @@ console.log("I'm student at Computer Engineering. I am interested in Web Develop
 ### Contact Me📫
 
 ```javascript
-console.log("You can reach my other account and page via my website 😄");
+console.log("You can reach my other account and page via my website 😄. Also contact with me.");
 ```
+* For my web page
+* :arrow_down: :arrow_down: :arrow_down:
+* [![Web Badge](https://img.shields.io/badge/My-WebPage-blue?style=for-the-badge&logo=googleearth)](https://burakboduroglu.github.io/)
 
-[![Web Badge](https://img.shields.io/badge/My-WebPage-blue?style=for-the-badge&logo=googleearth)](https://burakboduroglu.github.io/)
 
+
+### Thanks👋
 ```java
 System.out.println("Thanks for visited my GitHub Page.");
 ```
