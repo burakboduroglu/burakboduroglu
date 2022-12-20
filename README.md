@@ -14,13 +14,13 @@ System.out.println("Welcome to My Page. I share my projects in here.");
 - BurakBoduroglu.github.io contains my web page codes.
 - PersonalProjects contains my personal projects like game, management systems and more.
 
-### Who am I?
+### About Me
 
 ```Javascript
 console.log("I'm student at Computer Engineering. I am interested in Web Development and Software Development");
 ```
 
-### My View Stats
+### My GitHub View Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=BurakBoduroglu)
 
