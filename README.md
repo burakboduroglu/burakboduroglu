@@ -1,10 +1,12 @@
-# Hi! I'm Burak Welcome to My GitHub Page⚡👋
+# Hi! I'm Burak Welcome to My GitHub Page ⚡👋
 
 ```java
-System.out.println("Welcome to My Page. I share my projects in here.");
+System.out.println("I share my projects in here.");
 ```
 
-### I have 7 reporsitory
+<hr>
+
+### I have 7 reporsitory :scroll: :package:
 
 - Kodlama.ioHM contains my Kodlama.io homeworks and projects like Backend with Java. (Spring)
 - ProgrammingNotes contains my programming notes and examples like Spring, Hibernate, MongoDB...
@@ -14,17 +16,32 @@ System.out.println("Welcome to My Page. I share my projects in here.");
 - BurakBoduroglu.github.io contains my web page codes.
 - PersonalProjects contains my personal projects like game, management systems and more.
 
-### About Me
+<hr>
+
+### My forked repositories :trophy:
+
+- SovosHackathon2022 which we 2. place in Hackathon.
+
+<hr>
+
+### About Me :technologist:
 
 ```Javascript
-console.log("I'm student at Computer Engineering. I am interested in Web Development and Software Development");
+console.log("I'm student at Computer Engineering. I am interested in Web Development and Software Development. ");
 ```
 
-### My GitHub View Stats
+<hr>
+
+### My GitHub View Stats :ringed_planet:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=BurakBoduroglu)
 
-### My Languages and Tools🌱🔭
+<hr>
+
+### My Languages and Tools 🌱🔭
+```Javascript
+console.log("You can find technologies which I use.");
+```
 
 <table width="450px">
     <tbody>
@@ -90,12 +107,16 @@ console.log("I'm student at Computer Engineering. I am interested in Web Develop
     </tbody>
 </table>
 
+<hr>
+
 ### About My GitHub Pages
 
 ![Burak's GitHub stats](https://github-readme-stats.vercel.app/api?username=burakboduroglu&show_icons=true&theme=gruvbox)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burakboduroglu&layout=compact&theme=gruvbox)
 
-### Contact Me📫
+<hr>
+
+### Contact Me 📫
 
 ```javascript
 console.log("You can reach my other account and page via my website 😄. Also contact with me.");
@@ -104,9 +125,9 @@ console.log("You can reach my other account and page via my website 😄. Also c
 * :arrow_down: :arrow_down: :arrow_down:
 * [![Web Badge](https://img.shields.io/badge/My-WebPage-blue?style=for-the-badge&logo=googleearth)](https://burakboduroglu.github.io/)
 
+<hr>
 
-
-### Thanks👋
+### Thanks 👋
 ```java
 System.out.println("Thanks for visited my GitHub Page.");
 ```
