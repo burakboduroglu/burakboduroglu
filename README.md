@@ -47,8 +47,16 @@ console.log("You can find technologies which I use.");
     <tbody>
         <tr valign="top">
             <td width="115px" align="center">
-            <span><strong>Python</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+            <span><strong>Javascript</strong></span><br>
+            <img height="32px" src="https://user-images.githubusercontent.com/80620802/198851961-54cfc97e-a0e1-4cdd-be52-7de9bb8a7523.png">
+            </td>
+            <td width="115px" align="center">
+            <span><strong>MongoDB</strong></span><br>
+            <img height="30px" src="https://user-images.githubusercontent.com/80620802/197774559-f6b0973b-10a1-4fe3-af84-d228b99cd4a5.png">
+            </td>
+            <td width="115px" align="center">
+            <span><strong>NodeJS</strong></span><br>
+            <img height="35px" src="https://user-images.githubusercontent.com/80620802/204745717-cace7ad5-a33c-441e-9c06-d494c53d11d3.png">
             </td>
             <td width="115px" align="center">
             <span><strong>Java</strong></span><br>
@@ -62,17 +70,9 @@ console.log("You can find technologies which I use.");
             <span><strong>CSS</strong></span><br>
             <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
             </td>
-          <td width="115px" align="center">
-            <span><strong>Javascript</strong></span><br>
-            <img height="32px" src="https://user-images.githubusercontent.com/80620802/198851961-54cfc97e-a0e1-4cdd-be52-7de9bb8a7523.png">
-            </td>
-          <td width="115px" align="center">
-            <span><strong>MongoDB</strong></span><br>
-            <img height="30px" src="https://user-images.githubusercontent.com/80620802/197774559-f6b0973b-10a1-4fe3-af84-d228b99cd4a5.png">
-            </td>
-          <td width="115px" align="center">
-            <span><strong>NodeJS</strong></span><br>
-            <img height="35px" src="https://user-images.githubusercontent.com/80620802/204745717-cace7ad5-a33c-441e-9c06-d494c53d11d3.png">
+            <td width="115px" align="center">
+            <span><strong>Python</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
             </td>
         </tr>
         <tr valign="top">
