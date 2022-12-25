@@ -9,7 +9,7 @@ System.out.println("I share my projects in here.");
 ### I have 7 reporsitory :scroll: :package:
 
 - Kodlama.ioHM contains my Kodlama.io homeworks and projects like Backend with Java. (Spring)
-- ProgrammingNotes contains my programming notes and examples like Spring, Hibernate, MongoDB...
+- ProgrammingNotes contains my programming notes and examples like Javascript, Spring, Hibernate, MongoDB...
 - Data Structures and Algorithms repo contains my data structures and algorithms codes.
 - PatikaDevHM contains my PatikaDev homeworks and projects like Google web page design.
 - BurakBoduroglu contains my personal readme document.
@@ -39,6 +39,7 @@ console.log("I'm student at Computer Engineering. I am interested in Web Develop
 <hr>
 
 ### My Languages and Tools 🌱🔭
+
 ```Javascript
 console.log("You can find technologies which I use.");
 ```
@@ -119,15 +120,19 @@ console.log("You can find technologies which I use.");
 ### Contact Me 📫
 
 ```javascript
-console.log("You can reach my other account and page via my website 😄. Also contact with me.");
+console.log(
+  'You can reach my other account and page via my website 😄. Also contact with me.'
+);
 ```
-* For my web page
-* :arrow_down: :arrow_down: :arrow_down:
-* [![Web Badge](https://img.shields.io/badge/My-WebPage-blue?style=for-the-badge&logo=googleearth)](https://burakboduroglu.github.io/)
+
+- For my web page
+- :arrow_down: :arrow_down: :arrow_down:
+- [![Web Badge](https://img.shields.io/badge/My-WebPage-blue?style=for-the-badge&logo=googleearth)](https://burakboduroglu.github.io/)
 
 <hr>
 
 ### Thanks 👋
+
 ```java
 System.out.println("Thanks for visited my GitHub Page.");
 ```
