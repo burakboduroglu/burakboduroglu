@@ -27,7 +27,7 @@ System.out.println("I share my projects in here.");
 ### About Me :technologist:
 
 ```Javascript
-console.log("I'm student at Computer Engineering. I am interested in Web Development and Software Development. ");
+console.log("I'm student at Computer Engineering. I am interested in Web Development and Software Development.");
 ```
 
 <hr>
