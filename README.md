@@ -29,7 +29,7 @@ print('I am student at Computer Engineering. I am interested in Backend Developm
 ### I have 7 reporsitory :scroll: :package:
 
 - Kodlama.ioHM contains my Kodlama.io homeworks and projects like Backend with Java. (Spring)
-- ProgrammingNotes contains my programming notes and examples like Javascript, Spring, Hibernate, MongoDB...
+- ProgrammingNotes contains my programming notes and examples like Python, Javascript, Spring, Hibernate, MongoDB...
 - Data Structures and Algorithms repo contains my data structures and algorithms codes.
 - PatikaDevHM contains my PatikaDev homeworks and projects like Google web page design.
 - BurakBoduroglu contains my personal readme document.
