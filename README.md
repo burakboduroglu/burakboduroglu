@@ -59,6 +59,7 @@ print('I am student at Computer Engineering. I am interested in Backend Developm
 <img height="32px" src="https://user-images.githubusercontent.com/80620802/214639772-39e71d03-5296-477d-b1d8-fc8400f0e509.png" id="pandas">
 <img height="30px" src="https://user-images.githubusercontent.com/80620802/214640642-00cbffb0-ce61-4306-8332-f332176e1d10.png" id="gurobi"> 
 <img height="30px" src="https://user-images.githubusercontent.com/80620802/214639786-2477d544-30ed-4d6f-b158-75f3c05d9038.png" id="matplotlib"> 
+<img height="33px" src="https://user-images.githubusercontent.com/80620802/215109615-87fcd429-b665-4e14-8de7-027a9dd2c474.png" id="pytube"> 
 </div>
 
 <div align="center" id="sql">
@@ -85,6 +86,7 @@ print('I am student at Computer Engineering. I am interested in Backend Developm
 <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> 
 <img height="32px" src="https://img.icons8.com/3d-fluency/512/github.png">        
 <img height="32px" src="https://user-images.githubusercontent.com/80620802/197777668-4b581863-9b62-44f1-bd68-e8d2c2a4713a.png"> 
+<img height="35px" src="https://user-images.githubusercontent.com/80620802/215110347-7e65ad1f-55ce-44f6-a431-ead9760776cb.png"> 
 </div> 
  
 <br />
