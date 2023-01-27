@@ -59,7 +59,11 @@ print('I am student at Computer Engineering. I am interested in Backend Developm
 <img height="32px" src="https://user-images.githubusercontent.com/80620802/214639772-39e71d03-5296-477d-b1d8-fc8400f0e509.png" id="pandas">
 <img height="30px" src="https://user-images.githubusercontent.com/80620802/214640642-00cbffb0-ce61-4306-8332-f332176e1d10.png" id="gurobi"> 
 <img height="30px" src="https://user-images.githubusercontent.com/80620802/214639786-2477d544-30ed-4d6f-b158-75f3c05d9038.png" id="matplotlib"> 
-<img height="33px" src="https://user-images.githubusercontent.com/80620802/215109615-87fcd429-b665-4e14-8de7-027a9dd2c474.png" id="pytube"> 
+<img height="33px" src="https://user-images.githubusercontent.com/80620802/215109615-87fcd429-b665-4e14-8de7-027a9dd2c474.png" id="pytube">
+<img height="32px" src="https://user-images.githubusercontent.com/80620802/215177360-a82fab15-0f50-4802-a419-3457393ebe85.png" id="selenium">
+<img height="32px" src="https://user-images.githubusercontent.com/80620802/215177347-7d0da8b7-4dea-4635-a7cd-53681ab61841.png" id="requests"> 
+</br>
+<img height="25px" width="60px" src="https://user-images.githubusercontent.com/80620802/215177355-71437b28-89d4-4917-8018-97ee84a682b9.png" id="beautifulsoup">
 </div>
 
 <div align="center" id="sql">
