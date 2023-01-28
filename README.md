@@ -33,7 +33,7 @@ print('Hi! I am Python/Javascript Developer. However, I am interested in Backend
 - Data Structures and Algorithms repo contains my data structures and algorithms codes.
 - BurakBoduroglu contains my personal readme document.
 - BurakBoduroglu.github.io contains my web page codes.
-- Kodlama.ioHM contains my Kodlama.io homeworks and projects like Backend with Node.js, Spring Boot.
+- Kodlama.ioHM contains my Kodlama.io homeworks and projects like Backend with Spring Boot.
 - PatikaDevHM contains my PatikaDev homeworks and projects like Google web page design.
 - PersonalProjects contains my personal projects like game, management systems and more.
 
