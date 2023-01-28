@@ -28,7 +28,8 @@ print('Hi! I am Python/Javascript Developer. However, I am interested in Backend
 
 ### I have 8 reporsitory :scroll: :package:
 
-- Python Projects repo contains my Python projects.
+- Python Projects repo contains my Python projects (Requests, BeautifulSoup, Pytube, Pandas, Matplorlib and more...).
+- Javascript Projects repo contains my Javascript projects (Node.js, Express.js, DOM and more...).
 - ProgrammingNotes contains my programming notes and examples like Python, Javascript, Spring, Hibernate, MongoDB...
 - Data Structures and Algorithms repo contains my data structures and algorithms codes.
 - BurakBoduroglu contains my personal readme document.
