@@ -28,7 +28,7 @@ print('Hi! I am Python/Javascript Developer. However, I am interested in Backend
 
 ### I have 7 reporsitory :scroll: :package:
 
-- Kodlama.ioHM contains my Kodlama.io homeworks and projects like Backend with Java. (Spring)
+- Kodlama.ioHM contains my Kodlama.io homeworks and projects like Backend with Node.js.
 - ProgrammingNotes contains my programming notes and examples like Python, Javascript, Spring, Hibernate, MongoDB...
 - Data Structures and Algorithms repo contains my data structures and algorithms codes.
 - PatikaDevHM contains my PatikaDev homeworks and projects like Google web page design.
