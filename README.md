@@ -49,6 +49,10 @@ print('Hi! I am Python/Javascript Developer. However, I am interested in Backend
 ### My GitHub View Stats :ringed_planet:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=BurakBoduroglu)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/burakboduroglu/count.svg" />
+</p>
 
 <hr>
 
