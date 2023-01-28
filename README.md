@@ -26,14 +26,15 @@ print('Hi! I am Python/Javascript Developer. However, I am interested in Backend
 
 <hr>
 
-### I have 7 reporsitory :scroll: :package:
+### I have 8 reporsitory :scroll: :package:
 
-- Kodlama.ioHM contains my Kodlama.io homeworks and projects like Backend with Node.js, Spring Boot.
+- Python Projects repo contains my Python projects.
 - ProgrammingNotes contains my programming notes and examples like Python, Javascript, Spring, Hibernate, MongoDB...
 - Data Structures and Algorithms repo contains my data structures and algorithms codes.
-- PatikaDevHM contains my PatikaDev homeworks and projects like Google web page design.
 - BurakBoduroglu contains my personal readme document.
 - BurakBoduroglu.github.io contains my web page codes.
+- Kodlama.ioHM contains my Kodlama.io homeworks and projects like Backend with Node.js, Spring Boot.
+- PatikaDevHM contains my PatikaDev homeworks and projects like Google web page design.
 - PersonalProjects contains my personal projects like game, management systems and more.
 
 <hr>
