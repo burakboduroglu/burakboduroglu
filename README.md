@@ -1,15 +1,9 @@
 # Hi! I'm Burak Welcome to My GitHub Page ⚡👋
 
-```java
-System.out.println("I share my projects in here.");
-```
-<hr>
-
 ### About Me :technologist:
 
-```python
-print("I'm Python👾Javascript Developer. However, I'm interested in Backend Development, Data Science/Machine Learning.")
-```
+- I'm Python👾Javascript Developer. However, I'm interested in Backend Development, Data Science/Machine Learning.
+
 
 <hr>
 
@@ -111,9 +105,7 @@ print("I'm Python👾Javascript Developer. However, I'm interested in Backend De
 
 ### Thanks 👋
 
-```python
-print('Thanks for visited my GitHub Page.')
-```
+- Thanks for visited my GitHub Page.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/80620802/116823668-5eda4280-ab8e-11eb-880e-ffa3f0e551f6.png" alt="logos">
