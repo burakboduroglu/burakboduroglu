@@ -8,7 +8,8 @@ System.out.println("I share my projects in here.");
 ### About Me :technologist:
 
 ```python
-print('I am Python/Javascript Developer. However, I am interested in Backend Development, Data Science/Machine Learning.')
+print('I am Software Developer. However, I am interested in Backend Development, Data Science/Machine Learning.')
+print('I am working with Python/Java/Javascript')
 ```
 
 <hr>
