@@ -70,6 +70,15 @@ print('I am Python/Javascript Developer. However, I am interested in Backend Dev
 <img height="25px" width="60px" src="https://user-images.githubusercontent.com/80620802/215177355-71437b28-89d4-4917-8018-97ee84a682b9.png" id="beautifulsoup">
 </div>
 
+
+<div align="center" id="java">
+<h4>-Java-</h4>
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">  
+<img height="30px" src="https://user-images.githubusercontent.com/80620802/197775701-e2cffaa2-b9fd-4e5f-bf49-bcc7b2bd7f34.png" id="hibernate"> 
+<img height="32px" src="https://user-images.githubusercontent.com/80620802/197776701-87c1a5f2-55be-41e4-a81b-5ca08555e0c5.png" id="spring"> 
+<img height="30px" src="https://user-images.githubusercontent.com/80620802/214639508-a04eec61-6132-4b65-aa35-925af6d4ec33.png">
+</div>
+
 <div align="center" id="js">
 <h4>-Javascript-</h4>
 <img height="32px" src="https://user-images.githubusercontent.com/80620802/198851961-54cfc97e-a0e1-4cdd-be52-7de9bb8a7523.png" id="js">  
@@ -92,13 +101,8 @@ print('I am Python/Javascript Developer. However, I am interested in Backend Dev
 <img height="32px" src="https://img.icons8.com/3d-fluency/512/github.png">        
 <img height="32px" src="https://user-images.githubusercontent.com/80620802/197777668-4b581863-9b62-44f1-bd68-e8d2c2a4713a.png"> 
 <img height="35px" src="https://user-images.githubusercontent.com/80620802/215110347-7e65ad1f-55ce-44f6-a431-ead9760776cb.png"> 
-</br>
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">  
-<img height="30px" src="https://user-images.githubusercontent.com/80620802/197775701-e2cffaa2-b9fd-4e5f-bf49-bcc7b2bd7f34.png" id="hibernate"> 
-<img height="32px" src="https://user-images.githubusercontent.com/80620802/197776701-87c1a5f2-55be-41e4-a81b-5ca08555e0c5.png" id="spring"> 
-<img height="30px" src="https://user-images.githubusercontent.com/80620802/214639508-a04eec61-6132-4b65-aa35-925af6d4ec33.png">
 </div> 
-<br />
+
 <hr>
 
 ### About My GitHub Pages
