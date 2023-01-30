@@ -107,5 +107,5 @@
 - Thanks for visited my GitHub Page.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/80620802/116823668-5eda4280-ab8e-11eb-880e-ffa3f0e551f6.png" alt="logos">
+<img height="420px" width="420px" src="https://user-images.githubusercontent.com/80620802/215530381-39bc8c0e-4718-47d3-b973-1210d0eba54a.jpg" alt="logos">
 </p>
