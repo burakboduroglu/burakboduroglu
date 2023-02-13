@@ -2,7 +2,7 @@
 
 ### About Me :technologist:
 
-- I'm Python👾Javascript Developer. However, I'm interested in Backend Development, Data Science and Machine Learning.
+- I'm Python👾Javascript Developer. However, I'm interested in Backend Development and Data Science.
 
 <hr>
 
