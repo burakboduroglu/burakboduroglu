@@ -22,7 +22,6 @@
 ### I have 9 reporsitory :scroll: :package:
 
 - <a href="https://github.com/burakboduroglu/Python-Projects">Python-Projects</a> repo contains my Python projects (Requests, BeautifulSoup, Matplotlib and more...).
-- <a href="https://github.com/burakboduroglu/Javascript-Projects">Javascript Projects</a> repo contains my Javascript projects (Node.js, Express.js, DOM and more...).
 - <a href="https://github.com/burakboduroglu/Programming-Notes">ProgrammingNotes</a> contains my programming notes and examples like Python, Javascript, Spring, Hibernate, MongoDB...
 - Data Structures and Algorithms repo contains my data structures and algorithms codes.
 - BurakBoduroglu contains my personal readme document.
@@ -63,11 +62,6 @@
 <img height="25px" width="60px" src="https://user-images.githubusercontent.com/80620802/215177355-71437b28-89d4-4917-8018-97ee84a682b9.png" id="beautifulsoup">
 </div>
 
-<div align="center" id="js">
-<h4>-Javascript-</h4>
-<img height="32px" src="https://user-images.githubusercontent.com/80620802/198851961-54cfc97e-a0e1-4cdd-be52-7de9bb8a7523.png" id="js">  
-</div>
-
 <div align="center" id="sql">
 <h4>-SQL-</h4>
 <img height="32px" src="https://user-images.githubusercontent.com/80620802/197774559-f6b0973b-10a1-4fe3-af84-d228b99cd4a5.png" id="mongo">   
@@ -77,6 +71,7 @@
 
 <div align="center" id="other">
 <h4>-Others-</h4>
+<img height="32px" src="https://user-images.githubusercontent.com/80620802/198851961-54cfc97e-a0e1-4cdd-be52-7de9bb8a7523.png" id="js">  
 <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">       
 <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 <img height="32px" src="https://user-images.githubusercontent.com/80620802/215251795-7ba0ac0d-77dd-4131-b097-49e99c670340.png"> 
