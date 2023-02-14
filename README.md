@@ -2,7 +2,7 @@
 
 ### About Me :technologist:
 
-- I'm Python👾Javascript Developer. However, I'm interested in Backend Development and Data Science.
+- Hi! I am Burak. I am interested in Machine Learning, Data Science and Deep Learning.
 
 <hr>
 
