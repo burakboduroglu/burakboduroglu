@@ -19,18 +19,15 @@
 
 <hr>
 
-### I have 9 reporsitory :scroll: :package:
+### I have 8 reporsitory :scroll: :package:
 
 - <a href="https://github.com/burakboduroglu/Python-Projects">Python-Projects</a> repo contains my Python projects (Requests, BeautifulSoup, Matplotlib and more...).
 - <a href="https://github.com/burakboduroglu/Programming-Notes">ProgrammingNotes</a> contains my programming notes and examples like Python, Javascript, Spring, Hibernate, MongoDB...
 - Data Structures and Algorithms repo contains my data structures and algorithms codes.
 - BurakBoduroglu contains my personal readme document.
-- BurakBoduroglu.github.io contains my web page codes.
 - Kodlama.ioHM contains my Kodlama.io homeworks and projects like Backend with Spring Boot.
 - PatikaDevHM contains my PatikaDev homeworks and projects like Google web page design.
 - PersonalProjects contains my personal projects like game, management systems and more.
-
-<hr>
 
 ### My forked repositories :trophy:
 
