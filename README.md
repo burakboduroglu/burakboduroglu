@@ -15,7 +15,7 @@
 
 ### Contact Me 📫
 
-- For my web page <a href="https://burakboduroglu.github.io/">-Web Page-</a>
+- For my web page <a href="https://linktr.ee/burakboduroglu">-Web Page-</a>
 
 <hr>
 
@@ -51,6 +51,7 @@
 <img height="35px" src="https://user-images.githubusercontent.com/80620802/214639739-9b3ff247-5668-4e62-8f61-02ab2bbbc532.png" id="numpy">
 <img height="32px" src="https://user-images.githubusercontent.com/80620802/214639772-39e71d03-5296-477d-b1d8-fc8400f0e509.png" id="pandas">
 <img height="30px" src="https://user-images.githubusercontent.com/80620802/214640642-00cbffb0-ce61-4306-8332-f332176e1d10.png" id="gurobi"> 
+<img height="30px" src="https://user-images.githubusercontent.com/80620802/224385529-e1584ecb-c315-408b-866a-a6f930b66630.png" id="seaborn"> 
 <img height="30px" src="https://user-images.githubusercontent.com/80620802/214639786-2477d544-30ed-4d6f-b158-75f3c05d9038.png" id="matplotlib"> 
 <img height="33px" src="https://user-images.githubusercontent.com/80620802/215109615-87fcd429-b665-4e14-8de7-027a9dd2c474.png" id="pytube">
 <img height="32px" src="https://user-images.githubusercontent.com/80620802/215177360-a82fab15-0f50-4802-a419-3457393ebe85.png" id="selenium">
