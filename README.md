@@ -2,14 +2,7 @@
 
 ### About Me :technologist:
 
-- Hi! I am Burak. I am interested in Machine Learning, Data Science and Deep Learning.
-
-<hr>
-
-### About My Kaggle Account
-
-- You can reach my Data Science and Machine Learning notebooks in there.
-- You can reach via this link <a href="https://www.kaggle.com/burakbodurolu">-Kaggle-</a>.
+- Hi! I am Burak. I am interested in Backend Technologies.
 
 <hr>
 
@@ -20,7 +13,6 @@
 <hr>
 
 ### I have 9 reporsitory :scroll: :package:
-- <a href="https://github.com/burakboduroglu/ds-ml-dl">ds-ml-dl</a> repo contains my Data Science/Machine Learning/Deep Learning codes and projects.
 - <a href="https://github.com/burakboduroglu/Python-Projects">Python-Projects</a> repo contains my Python projects (Requests, BeautifulSoup, Matplotlib and more...).
 - <a href="https://github.com/burakboduroglu/Programming-Notes">ProgrammingNotes</a> contains my programming notes and examples like Python, Javascript, Spring, Hibernate, MongoDB...
 - Data Structures and Algorithms repo contains my data structures and algorithms codes.
