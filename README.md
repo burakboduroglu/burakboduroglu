@@ -14,7 +14,7 @@
 
 ### I have 7 reporsitory :scroll: :package:
 - <a href="https://github.com/burakboduroglu/Programming-Notes">ProgrammingNotes</a> contains my programming notes and examples like Python, Javascript, Spring, Hibernate, MongoDB...
-- Data Structures and Algorithms repo contains my data structures and algorithms codes.
+- <a href="https://github.com/burakboduroglu/Data-Structures-And-Algorithms"></a>Data Structures and Algorithms repo contains my data structures and algorithms codes.
 - BurakBoduroglu contains my personal readme document.
 - Kodlama.ioHM contains my Kodlama.io homeworks and projects like Backend with Spring Boot.
 - PatikaDevHM contains my PatikaDev homeworks and projects like Google web page design.
