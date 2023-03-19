@@ -1,14 +1,12 @@
-# Hi! I'm Burak Welcome to My GitHub Page ⚡👋
-
-### About Me :technologist:
-
-- Hi! I am Burak. I am interested in Backend Technologies.
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?     font=Poppins&weight=500&size=29&pause=1000&color=fa8d01&background=A2FFB500&width=435&lines=Welcome+to+My+GitHub+Page!;I+am+happy+to+see+you!;You+can+explore+my+repos.👋" alt="Typing SVG" /></a>
+</div>
 
 <hr>
 
-### Contact Me 📫
+### About Me :technologist: ⚡
 
-- For my personal web page <a href="https://linktr.ee/burakboduroglu">Personal Web Page</a>
+- Hi! I am Burak. I am interested in Backend Technologies.
 
 <hr>
 
@@ -65,14 +63,36 @@
 
 <hr>
 
-### About My GitHub Pages
+<h2 align="center"> My Stats :technologist:</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=burakboduroglu&theme=dark&border=61dafb&hide_border=true" alt="burakboduroglu" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=burakboduroglu&show_icons=true&theme=dark&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakboduroglu&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=fa8d01&text_color=9f9f9f&icon_color=61dafb&bg_color=151515&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br>
 
-![Burak's GitHub stats](https://github-readme-stats.vercel.app/api?username=burakboduroglu&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burakboduroglu&layout=compact&theme=gruvbox)
+<hr>
+
+### Contact Me 📫
+
+- For my personal web page <a href="https://linktr.ee/burakboduroglu">Personal Web Page</a>
 
 <hr>
 
 ### Thanks 👋
 
 - Thanks for visited my GitHub Page.
+
+<img src="https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif"/>
 
