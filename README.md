@@ -5,7 +5,9 @@
 
 ### About Me :technologist: ⚡
 
-- Hi! I am Burak. I am interested in Backend Technologies.
+- I am Burak. 
+- I am interested in Backend Technologies.
+- I share my programming notes, projects and homeworks. 
 
 <hr>
 
@@ -92,6 +94,6 @@
 ### Thanks 👋
 
 - Thanks for visited my GitHub Page.
-
+- If you like my page, please give it a star. 🌟
 
 
