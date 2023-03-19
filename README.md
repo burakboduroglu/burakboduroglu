@@ -1,6 +1,5 @@
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?     font=Poppins&weight=500&size=29&pause=1000&color=fa8d01&background=A2FFB500&width=435&lines=Welcome+to+My+GitHub+Page!;I+am+happy+to+see+you!;You+can+explore+my+repos.👋" alt="Typing SVG" /></a>
-</div>
+<img src="https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif"/>
+<h2>Welcome to My GitHub Page!👋</h2>
 
 <hr>
 
@@ -94,5 +93,5 @@
 
 - Thanks for visited my GitHub Page.
 
-<img src="https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif"/>
+
 
