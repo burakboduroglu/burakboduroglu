@@ -1,20 +1,23 @@
 <img src="https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif"/>
 
+<hr>
+
 <div align="center"> 
-<h2>Welcome to My GitHub Page! 👋</h2>
+<h2>Welcome to My GitHub Page! 👋 ✨</h2>
 </div>
 
 <hr>
 
 ### About Me :technologist: ⚡
 
-- I am Burak. 
+- I am Burak.
 - I am interested in Backend Technologies.
-- I share my programming notes, projects and homeworks. 
+- I share my programming notes, projects and homeworks.
 
 <hr>
 
 ### I have 7 reporsitory :scroll: :package:
+
 - <a href="https://github.com/burakboduroglu/Programming-Notes">Programming Notes</a> repo contains my programming notes and examples like Java, Javascript, Spring, Hibernate, MongoDB...
 - <a href="https://github.com/burakboduroglu/Data-Structures-And-Algorithms">Data Structures and Algorithms </a> repo contains my data structures and algorithms codes.
 - <a href="https://github.com/burakboduroglu/BurakBoduroglu"> Burak Boduroglu </a> repo contains my personal readme document.
@@ -32,7 +35,8 @@
 
 <hr>
 
-### My GitHub View Stats :ringed_planet:
+### My GitHub View Stats :ringed_planet: :bar_chart: :chart_with_upwards_trend:
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/burakboduroglu/count.svg" />
@@ -67,7 +71,7 @@
 <img height="35px" src="https://user-images.githubusercontent.com/80620802/215110347-7e65ad1f-55ce-44f6-a431-ead9760776cb.png"> 
 <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </br>
-</div> 
+</div>
 
 <hr>
 
@@ -89,9 +93,9 @@
  
 <hr>
 
-### Thanks 👋
+### Thanks 👋 🔭
 
 - Thanks for visited my GitHub Page.
 - If you like my page, please give it a star. 🌟
-
-
+- I'm looking forward to seeing you in my repositories. 👀
+- Have a nice day! 😊
