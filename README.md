@@ -26,6 +26,10 @@
 
 - <a href="https://github.com/burakboduroglu/SovosHackathon2022"> Sovos Hackathon 2022</a> repo which we 2. place in Hackathon.
 
+### For Contact ⚡📫
+
+- For my personal web page <a href="https://linktr.ee/burakboduroglu">Web Page</a>
+
 <hr>
 
 ### My GitHub View Stats :ringed_planet:
@@ -69,29 +73,20 @@
 
 <h2 align="center"> My Stats :technologist:</h2>
 <br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="For ource">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=burakboduroglu&theme=dark&border=61dafb&hide_border=true" alt="burakboduroglu" />
-    </a>
+<div align=center><a href="https://github.com/denvercoder1/github-readme-streak-stats" title="For ource">
+   <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=burakboduroglu&theme=dark&border=61dafb&hide_border=true" alt="burakboduroglu" />
+  </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="For Source">
       <img align="right" width=390px src="https://github-readme-stats.vercel.app/api?username=burakboduroglu&show_icons=true&theme=dark&border_color=61dafb&hide_border=true" />
     </a>
-  </div>
+</div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="For Source">
       <img width=390px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakboduroglu&title_color=fa8d01&text_color=9f9f9f&icon_color=61dafb&bg_color=151515&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
-  </div>
-  <br>
-
-<hr>
-
-### Contact Me 📫
-
-- For my personal web page <a href="https://linktr.ee/burakboduroglu">Personal Web Page</a>
-
+</div>
+ 
 <hr>
 
 ### Thanks 👋
