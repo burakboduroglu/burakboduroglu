@@ -1,7 +1,5 @@
 <img src="https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif"/>
 
-<hr>
-
 <div align="center"> 
 <h2>Welcome to My GitHub Page! 👋 ✨</h2>
 </div>
