@@ -75,19 +75,25 @@
 
 <h2 align="center"> My Stats :technologist:</h2>
 <br>
-<div align=center><a href="https://github.com/denvercoder1/github-readme-streak-stats" title="For Source">
-   <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=burakboduroglu&theme=dark&border=61dafb&hide_border=true" alt="burakboduroglu" />
-  </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="For Source">
-      <img align="right" width=390px src="https://github-readme-stats.vercel.app/api?username=burakboduroglu&show_icons=true&theme=dark&border_color=61dafb&hide_border=true" />
+
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=burakboduroglu&theme=dark&border=61dafb&hide_border=true" alt="burakboduroglu" />
     </a>
-</div>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=burakboduroglu&show_icons=true&title_color=fa8d01&text_color=9f9f9f&icon_color=fa8d01&bg_color=151515&hide_border=true" />
+    </a>
+  </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="For Source">
-      <img width=390px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakboduroglu&title_color=fa8d01&text_color=9f9f9f&icon_color=61dafb&bg_color=151515&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakboduroglu&h&title_color=fa8d01&text_color=9f9f9f&icon_color=61dafb&bg_color=151515&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
-</div>
+  </div>
+  <br>
+  
+</p>
  
 <hr>
 
