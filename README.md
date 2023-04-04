@@ -9,7 +9,7 @@
 ### About Me :technologist: ⚡
 
 - I am Burak.
-- I am interested in Backend Technologies.
+- I am interested in Web Technologies.
 - I share my programming notes, projects and homeworks.
 
 <hr>
