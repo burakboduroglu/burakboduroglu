@@ -44,7 +44,7 @@
 
 ### My Languages and Tools 🌱🔭
 
-<div align="center"  id="part-2">
+<div align="center"  id="part-tech-tools">
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -77,13 +77,11 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 </div>
 
-### Thanks 👋 🔭
+<div align="center"  id="part-stats">
+   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burakboduroglu&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-- Thanks for visited my GitHub Page.
-- If you like my page, please give it a star. 🌟
-- I'm looking forward to seeing you in my repositories. 👀
-- Have a nice day! 😊
+</div>
