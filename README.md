@@ -42,44 +42,49 @@
 
 <hr>
 
+
+
 ### My Languages and Tools 🌱🔭
 
-<div align="center"  id="part-2">
-  <img height="32px" src="https://user-images.githubusercontent.com/80620802/198851961-54cfc97e-a0e1-4cdd-be52-7de9bb8a7523.png" id="js">  
-  <img height="32px" src="https://user-images.githubusercontent.com/80620802/197774559-f6b0973b-10a1-4fe3-af84-d228b99cd4a5.png" id="mongo">   
-  <img height="32px" src="https://user-images.githubusercontent.com/80620802/197856031-cc8d3082-5809-4bb3-89f7-ff534d76c2e0.png" id="postgres"> 
-  <img height="32px" src="https://user-images.githubusercontent.com/80620802/229889067-306c9514-2c86-401f-ac76-4de0cf34b6dd.png" id="git">  
-  <img height="32px" src="https://user-images.githubusercontent.com/80620802/225430385-397d7b4f-3ad7-4ae9-9f3e-fa199d399f02.png" id="docker"> 
-  <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">  
-  <img height="30px" src="https://user-images.githubusercontent.com/80620802/197775701-e2cffaa2-b9fd-4e5f-bf49-bcc7b2bd7f34.png" id="hibernate"> 
-  <img height="32px" src="https://user-images.githubusercontent.com/80620802/197776701-87c1a5f2-55be-41e4-a81b-5ca08555e0c5.png" id="spring"> 
-  <img height="30px" src="https://user-images.githubusercontent.com/80620802/214639508-a04eec61-6132-4b65-aa35-925af6d4ec33.png">
-  <img height="35px" src="https://user-images.githubusercontent.com/80620802/197773486-f07a665a-4675-456f-8757-99cdaeb1dbcb.png" id="c#">
-  <img height="32px" src="https://user-images.githubusercontent.com/80620802/225431967-d405398a-8725-4d96-bf20-82da160d8198.png" id="sql server"> 
-  <img height="30px" src="https://user-images.githubusercontent.com/80620802/225431542-436589ff-0ff4-454d-9903-52830c46c48b.png" id="mysql">
-  <img height="35px" src="https://user-images.githubusercontent.com/80620802/225432986-4ce3bf75-6d2e-4588-b1c5-1398312d695d.png" id="azure data">
-</div>
-
-<div align="center" id="part-1">
-  <img height="30px" src="https://user-images.githubusercontent.com/80620802/214932139-80ba0cc9-0645-47f3-a80f-54422c399022.png" id="sqlite"> 
-  <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">       
-  <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img height="32px" src="https://user-images.githubusercontent.com/80620802/215251795-7ba0ac0d-77dd-4131-b097-49e99c670340.png">
-  <img height="30px" src="https://user-images.githubusercontent.com/80620802/229890254-1c8a8562-1bc8-4fcd-a319-6d9b8009d451.png"> 
-  <img height="32px" src="https://img.icons8.com/3d-fluency/512/github.png">        
-  <img height="32px" src="https://user-images.githubusercontent.com/80620802/197777668-4b581863-9b62-44f1-bd68-e8d2c2a4713a.png"> 
-  <img height="35px" src="https://user-images.githubusercontent.com/80620802/215110347-7e65ad1f-55ce-44f6-a431-ead9760776cb.png"> 
-  <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  </br>
-</div>
-
+<div align="center"  id="tools"> 
+  
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white)
+  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+  ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) 
+  ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
+  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+  ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+  
 <hr>
-
-
 
 <h2 align="center"> My Stats :technologist:</h2>
 <br>
-
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
@@ -92,17 +97,18 @@
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakboduroglu&h&title_color=fa8d01&text_color=9f9f9f&icon_color=61dafb&bg_color=151515&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakboduroglu&h&title_color=fa8d01&text_color=9f9f9f&icon_color=61dafb&bg_color=151515&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&hide=scss,asp.net" />
     </a>
   </div>
   <br>
 </p>
- 
+
 <hr>
-
+<div>
+  
 ### Thanks 👋 🔭
-
 - Thanks for visited my GitHub Page.
 - If you like my page, please give it a star. 🌟
 - I'm looking forward to seeing you in my repositories. 👀
 - Have a nice day! 😊
+  </div>
