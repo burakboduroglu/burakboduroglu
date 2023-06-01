@@ -75,8 +75,6 @@
 
 <hr>
 
-
-
 <h2 align="center"> My Stats :technologist:</h2>
 <br>
 
