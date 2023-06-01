@@ -81,11 +81,6 @@
 
 </div>
 
-<hr>
-
-<h2 align="center"> My Stats :technologist:</h2>
-<br>
-
 ### Thanks 👋 🔭
 
 - Thanks for visited my GitHub Page.
