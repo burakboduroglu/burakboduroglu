@@ -28,10 +28,19 @@
 - <a href="https://github.com/burakboduroglu/SovosHackathon2022"> Sovos Hackathon 2022</a> repo which we 2. place in Hackathon.
 
 ### For Contact ⚡📫
-
-- For my personal web page <a href="https://linktr.ee/burakboduroglu">Web Page</a>
-
-<hr>
+  <a href="https://linktr.ee/burakboduroglu" target="blank">
+    <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="bb"/>
+  </a>
+  
+  <a href="https://medium.com/@burakboduroglu" target="blank">
+    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="bb" />
+  </a>
+  
+  <a href="https://dev.to/burakboduroglu" target="blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="bb"/>
+  </a>
+ 
+ <hr>
 
 ### My GitHub View Stats :ringed_planet: :bar_chart: :chart_with_upwards_trend:
 
