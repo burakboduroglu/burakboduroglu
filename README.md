@@ -36,12 +36,16 @@
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="bb"/>
   </a>
   
-  <a href="https://medium.com/@burakboduroglu" target="blank">
-    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="bb" />
+   <a href="https://www.youtube.com/channel/UCAHN6fn_IFX0cEywoJZJEAA" target="blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="bb"/>
   </a>
   
   <a href="https://dev.to/burakboduroglu" target="blank">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="bb"/>
+  </a>
+  
+  <a href="https://medium.com/@burakboduroglu" target="blank">
+    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="bb" />
   </a>
   
  <hr>
