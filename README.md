@@ -8,7 +8,7 @@
 
 ### About Me :technologist: ⚡
 
-- I'm Burak, a passionate web enthusiast. I write captivating blogs on Medium and the Dev community, sharing my programming notes and projects on GitHub. Join me on this exciting web technology journey!
+I'm Burak, a passionate web enthusiast. I write captivating blogs on Medium and the Dev community, sharing my programming notes and projects on GitHub. Join me on this exciting web technology journey!
 
 <hr>
 
