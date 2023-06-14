@@ -10,7 +10,8 @@
 
 I'm Burak, a passionate web enthusiast. I write captivating blogs on Medium and the Dev community, sharing my programming notes and projects on GitHub. Join me on this exciting web technology journey!
 
-I'm using JavaScript Frameworks and Go Frameworks.
+I'm using JavaScript Frameworks and Go Frameworks. ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 <hr>
 
