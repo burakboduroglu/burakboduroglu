@@ -13,20 +13,6 @@ I'm using JavaScript Frameworks and Go Frameworks. ![JavaScript](https://img.shi
 
 <hr>
 
-### I have 7 reporsitory :scroll: :package:
-
-<a href="https://github.com/burakboduroglu/Programming-Notes">Programming Notes</a> repo contains my programming notes and examples like Java, Javascript, Spring, Hibernate, MongoDB...
-
-<a href="https://github.com/burakboduroglu/Data-Structures-And-Algorithms">Data Structures and Algorithms </a> repo contains my data structures and algorithms codes.
-
-<a href="https://github.com/burakboduroglu/BurakBoduroglu"> Burak Boduroglu </a> repo contains my personal readme document.
-
-<a href="https://github.com/burakboduroglu/Kodlama.ioHM"> Kodlama.io Homework </a> repo contains my Kodlama.io homeworks and projects like Backend with Spring Boot.
-
-<a href="https://github.com/burakboduroglu/PatikaDevHM"> PatikaDev Homework </a> repo contains my PatikaDev homeworks and projects like Google web page design.
-
-<a href="https://github.com/burakboduroglu/PersonalProjects"> Personal Projects</a> repo contains my personal projects like game, management systems and more.
-
 ### My forked repositories :trophy:
 
 <a href="https://github.com/burakboduroglu/SovosHackathon2022"> Sovos Hackathon 2022</a> repo which we 2. place in Hackathon.
