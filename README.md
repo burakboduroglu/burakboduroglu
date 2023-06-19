@@ -13,11 +13,23 @@ I'm using JavaScript Frameworks and Go Frameworks. ![JavaScript](https://img.shi
 
 <hr>
 
+### My Web Projects 🔭
+
+<ul>
+  <li><a href="https://github.com/burakboduroglu/NASA-Project">NASA Project (NASA API)</a> </li>
+  <li><a href="https://github.com/burakboduroglu/PCAT">PCAT (Image App)</a> </li>
+  <li><a href="https://github.com/burakboduroglu/CLEANBLOG">Clean Blog (Blog App)</a> </li>
+  <li><a href="https://github.com/burakboduroglu?tab=repositories">All Repositories</a> </li>
+</ul>
+
+<hr>
+
 ### My forked repositories :trophy:
 
 <a href="https://github.com/burakboduroglu/SovosHackathon2022"> Sovos Hackathon 2022</a> repo which we 2. place in Hackathon.
 
 ### For Contact ⚡📫
+
   <a href="https://linktr.ee/burakboduroglu" target="blank">
     <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="bb"/>
   </a>
@@ -86,7 +98,8 @@ I'm using JavaScript Frameworks and Go Frameworks. ![JavaScript](https://img.shi
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
 </div>
 
 <div align="center"  id="part-stats">
