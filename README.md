@@ -6,10 +6,7 @@
 
 ### About Me :technologist: ⚡
 
-I'm Burak, a passionate web enthusiast. I write captivating blogs on the Developer Community, sharing my programming notes and projects on GitHub. Join me on this exciting web technology journey!
-
-I'm using JavaScript Frameworks and Go Frameworks. ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+> 👋 Hey there! I'm Burak Boduroğlu, a passionate `JavaScript` and `Go` developer with a knack for problem-solving and building efficient web applications. 💻 When I'm not coding, you can find me sharing my knowledge and experiences on the `Developer Community` through my blog. 📝 Join me on a journey of learning and exploration as we dive into various programming topics and industry trends. Feel free to explore my `Linktree` to discover more about my projects, articles, and social media channels. Let's connect and grow together! 🚀
 
 <hr>
 
