@@ -41,6 +41,9 @@ Hey there! I'm Burak Boduroğlu👋, a passionate `JavaScript` and `Go` develope
         <a href="https://www.codewars.com/users/burakboduroglu" target="blank">
           <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="bb"/>
         </a>
+        <a href="https://leetcode.com/BurakBoduroglu/" target="blank">
+          <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="bb"/>
+        </a>
       </td>
     </tr>
 </table>
