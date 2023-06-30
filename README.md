@@ -38,6 +38,9 @@ Hey there! I'm Burak Boduroğlu👋, a passionate `JavaScript` and `Go` develope
         <a href="https://www.hackerrank.com/burak_boduroglu?hr_r=1" target="blank">
           <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="bb"/>
         </a>
+        <a href="https://www.codewars.com/users/burakboduroglu" target="blank">
+          <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="bb"/>
+        </a>
       </td>
     </tr>
 </table>
