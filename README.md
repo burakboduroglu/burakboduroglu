@@ -61,10 +61,10 @@ Hey there! I'm Burak Boduroğlu👋, a passionate `JavaScript` and `Go` develope
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burakboduroglu&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 `Coderwars`
-  
-<img src="https://www.codewars.com/users/burakboduroglu/badges/small" alt="coderwars"/>
 
-
+<a href="https://www.codewars.com/users/burakboduroglu" target="blank">
+  <img src="https://www.codewars.com/users/burakboduroglu/badges/small" alt="coderwars"/>
+</a>
 
 <hr>
 
