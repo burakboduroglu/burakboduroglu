@@ -26,7 +26,7 @@ Hey there! I'm Burak Boduroğlu👋, a passionate `JavaScript` and `Go` develope
 <a href="https://github.com/burakboduroglu/SovosHackathon2022"> Sovos Hackathon 2022</a> repo which we 2. place in Hackathon.
 
 ### For Contact ⚡📫
-<table align="center">
+<table>
     <tr>
       <td>
         <a href="https://linktr.ee/burakboduroglu" target="blank">
@@ -48,25 +48,29 @@ Hey there! I'm Burak Boduroğlu👋, a passionate `JavaScript` and `Go` develope
     </tr>
 </table>
   
- <hr>
+<hr>
 
-### My GitHub View Stats :ringed_planet: :bar_chart: :chart_with_upwards_trend:
+### My Stats :ringed_planet: :bar_chart: :chart_with_upwards_trend:
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/burakboduroglu/count.svg" />
-  <div align="center"  id="part-stats">
-   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burakboduroglu&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+`Visitors`
 
-  </div>
-</p>
+<img src="https://profile-counter.glitch.me/burakboduroglu/count.svg" />
+
+`Languages`
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burakboduroglu&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+`Coderwars`
+  
+<img src="https://www.codewars.com/users/burakboduroglu/badges/small" alt="coderwars"/>
+
+
 
 <hr>
 
 ### My Languages and Tools 🌱🔭
 
-<div align="center" id="part-tech-tools">
+<div id="part-tech-tools">
   <table>
     <tr>
       <td>
