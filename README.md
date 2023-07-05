@@ -6,7 +6,7 @@
 
 ### About Me :technologist: ⚡
 
-Hey there! I'm Burak Boduroğlu👋, a passionate `JavaScript` and `Go` developer with a knack for problem-solving and building efficient web applications. 💻 When I'm not coding, you can find me sharing my knowledge and experiences on the `Developer Community` through my blog. 📝 Join me on a journey of learning and exploration as we dive into various programming topics and industry trends. Feel free to explore my `Linktree` to discover more about my projects, articles, and social media channels. Let's connect and grow together! 🚀
+Hey there! I'm Burak Boduroğlu👋, a passionate `JavaScript` and `Java` developer with a knack for problem-solving and building efficient web applications. 💻 When I'm not coding, you can find me sharing my knowledge and experiences on the `Developer Community` through my blog. 📝 Join me on a journey of learning and exploration as we dive into various programming topics and industry trends. Feel free to explore my `Linktree` to discover more about my projects, articles, and social media channels. Let's connect and grow together! 🚀
 
 <hr>
 
@@ -83,12 +83,12 @@ Hey there! I'm Burak Boduroğlu👋, a passionate `JavaScript` and `Go` develope
     </tr>
     <tr>
     <td>
+        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>  
         <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/> 
         <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"/>  
         <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD"/>  
         <img src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black"/>  
         <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>
-        <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
       </td>
     </tr>
     <td>
@@ -113,7 +113,7 @@ Hey there! I'm Burak Boduroğlu👋, a passionate `JavaScript` and `Go` develope
         <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
         <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>  
         <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>  
-        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>  
+        <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
         <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>  
         <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>  
         <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>  
