@@ -10,17 +10,6 @@ Hey there! I'm Burak Boduroğlu👋, a passionate `JavaScript` and `Java` develo
 
 <hr>
 
-### My Web Projects 🔭
-
-<ul>
-  <li><a href="https://github.com/burakboduroglu/NASA-Project">NASA Project (NASA API)</a> </li>
-  <li><a href="https://github.com/burakboduroglu/PCAT">PCAT (Image App)</a> </li>
-  <li><a href="https://github.com/burakboduroglu/CLEANBLOG">Clean Blog (Blog App)</a> </li>
-  <li><a href="https://github.com/burakboduroglu?tab=repositories">All Repositories</a> </li>
-</ul>
-
-<hr>
-
 ### My forked repositories :trophy:
 
 <a href="https://github.com/burakboduroglu/SovosHackathon2022"> Sovos Hackathon 2022</a> repo which we 2. place in Hackathon.
@@ -77,14 +66,14 @@ Hey there! I'm Burak Boduroğlu👋, a passionate `JavaScript` and `Java` develo
         <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
         <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>  
         <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>  
+        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/> 
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>  
-        <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
       </td>
     </tr>
     <tr>
     <td>
-        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-      <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/> 
+        <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
         <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
         <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>  
         <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/> 
