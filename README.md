@@ -41,10 +41,6 @@ Hey there! I'm Burak Boduroğlu👋, a passionate `JavaScript` and `Java` develo
 
 ### My Stats :ringed_planet: :bar_chart: :chart_with_upwards_trend:
 
-`Visitors`
-
-<img src="https://profile-counter.glitch.me/burakboduroglu/count.svg" />
-
 `Languages`
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burakboduroglu&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -73,6 +69,7 @@ Hey there! I'm Burak Boduroğlu👋, a passionate `JavaScript` and `Java` develo
     </tr>
     <tr>
     <td>
+        <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white&logo=mongodb&logoColor=white"/>
         <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
         <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
         <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>  
