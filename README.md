@@ -14,6 +14,8 @@ Hey there! I'm Burak Boduroğlu👋, a passionate `JavaScript` and `Java` develo
 
 <a href="https://github.com/burakboduroglu/SovosHackathon2022"> Sovos Hackathon 2022</a> repo which we 2. place in Hackathon.
 
+<hr>
+
 ### For Contact ⚡📫
 <table>
     <tr>
