@@ -6,7 +6,7 @@
 
 ### About :technologist:⚡
 
-Hey there! I'm Burak Boduroğlu👋, a passionate `JavaScript` and `Java` developer with a knack for problem-solving and building efficient web applications. 💻 When I'm not coding, you can find me sharing my knowledge and experiences on the `Developer Community` through my blog. 📝 Join me on a journey of learning and exploration as we dive into various programming topics and industry trends. Feel free to explore my `Linktree` to discover more about my projects, articles, and social media channels. Let's connect and grow together! 🚀
+Hey there! I'm Burak Boduroğlu👋, a passionate `JavaScript` and `Java` developer with a knack for problem-solving and building efficient web applications. 💻When I'm not coding, you can find me sharing my knowledge and experiences on the `Developer Community` through my blog. 📝Join me on a journey of learning and exploration as we dive into various programming topics and industry trends. Feel free to explore my `Linktree` to discover more about my projects, articles, and social media channels. Let's connect and grow together! 🚀
 
 <hr>
 
