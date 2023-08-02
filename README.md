@@ -10,14 +10,7 @@ Hey there! I'm Burak Boduroğlu👋, a passionate `JavaScript` and `Java` develo
 
 <hr>
 
-### My forked repositories :trophy:
-
-<a href="https://github.com/burakboduroglu/SovosHackathon2022"> Sovos Hackathon 2022</a> repo which we 2. place in Hackathon.
-
-<hr>
-
 ### My Languages and Tools 🌱🔭
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,react,vite,materialui,supabase,git,docker,azure,bootstrap,css,html" />
@@ -30,22 +23,17 @@ Hey there! I'm Burak Boduroğlu👋, a passionate `JavaScript` and `Java` develo
   </a>
 </p>
 
-
-  
 <hr>
 
 ### Stats :ringed_planet: :bar_chart: :chart_with_upwards_trend:
-
-`Languages`
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burakboduroglu&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
-`Codewars`
-
-<a href="https://www.codewars.com/users/burakboduroglu" target="blank">
-  <img src="https://www.codewars.com/users/burakboduroglu/badges/small" alt="coderwars"/>
-</a>
-
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakboduroglu&layout=compact&theme=github_dark" />
+  </a>
+  <a href="https://www.codewars.com/users/burakboduroglu" target="blank">
+    <img src="https://www.codewars.com/users/burakboduroglu/badges/small" alt="coderwars"/>
+  </a>
+</p>
 <hr>
 
 ### Contact ⚡📫
@@ -66,4 +54,10 @@ Hey there! I'm Burak Boduroğlu👋, a passionate `JavaScript` and `Java` develo
         <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="bb"/>
     </a>
 </p>
+
+<hr>
+
+### My forked repositories :trophy:
+
+<a href="https://github.com/burakboduroglu/SovosHackathon2022"> Sovos Hackathon 2022</a> repo which we 2. place in Hackathon.
 
