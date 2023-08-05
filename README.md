@@ -10,6 +10,28 @@ Hey there! I'm Burak Boduroğlu👋, a passionate `JavaScript` and `Java` develo
 
 <hr>
 
+### Contact 📫
+Explore my captivating blog on dev.to and watch the exciting introduction video of my top project on YouTube. You can also find my coding challenges on CodeWars, HackerRank, and LeetCode, where I continue to learn and grow. Stay connected and discover more through my Linktree page.⚡
+<p align="center">
+    <a href="https://linktr.ee/burakboduroglu" target="blank">
+        <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="bb"/>
+    </a>
+    <a href="https://dev.to/burakboduroglu" target="blank">
+        <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="bb"/>
+    </a>
+    <a href="https://youtube.com/@burakboduroglu" target="blank">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="bb"/>
+    </a>
+    <a href="https://www.codewars.com/users/burakboduroglu" target="blank">
+        <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="bb"/>
+    </a>
+    <a href="https://leetcode.com/BurakBoduroglu/" target="blank">
+        <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="bb"/>
+    </a>
+</p>
+
+<hr>
+
 ### My Languages and Tools 🌱🔭
 <p align="center">
   <a href="https://skillicons.dev">
@@ -34,27 +56,6 @@ Hey there! I'm Burak Boduroğlu👋, a passionate `JavaScript` and `Java` develo
     <img src="https://www.codewars.com/users/burakboduroglu/badges/small" alt="coderwars"/>
   </a>
 </p>
-<hr>
-
-### Contact ⚡📫
-<p align="center">
-    <a href="https://linktr.ee/burakboduroglu" target="blank">
-        <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="bb"/>
-    </a>
-    <a href="https://dev.to/burakboduroglu" target="blank">
-        <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="bb"/>
-    </a>
-    <a href="https://www.hackerrank.com/burak_boduroglu?hr_r=1" target="blank">
-        <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="bb"/>
-    </a>
-    <a href="https://www.codewars.com/users/burakboduroglu" target="blank">
-        <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="bb"/>
-    </a>
-    <a href="https://leetcode.com/BurakBoduroglu/" target="blank">
-        <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="bb"/>
-    </a>
-</p>
-
 <hr>
 
 ### My forked repositories :trophy:
