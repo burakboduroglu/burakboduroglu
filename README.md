@@ -11,7 +11,7 @@ Hey there! I'm Burak Boduroğlu👋, a passionate `JavaScript` and `Java` develo
 <hr>
 
 ### Contact 📫
-Explore my captivating blog on dev.to and watch the exciting introduction video of my top project on YouTube. You can also find my coding challenges on CodeWars, HackerRank, and LeetCode, where I continue to learn and grow. Stay connected and discover more through my Linktree page.⚡
+Explore my captivating blog on `Developer Community` and watch the exciting introduction video of my top project on `YouTube`. You can also find my coding challenges on `CodeWars`, `HackerRank`, and `LeetCode`, where I continue to learn and grow. Stay connected and discover more through my  `Linktree` page.⚡
 <p align="center">
     <a href="https://linktr.ee/burakboduroglu" target="blank">
         <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="bb"/>
