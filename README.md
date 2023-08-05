@@ -19,7 +19,7 @@ Hey there! I'm Burak Boduroğlu👋, a passionate `JavaScript` and `Java` develo
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,mysql,postgres,postman,py,sqlite,md,figma,devto,github,heroku" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,mysql,postgres,postman,py,sqlite,md,figma,devto,github,vscode" />
   </a>
 </p>
 
