@@ -6,7 +6,7 @@
 
 ### About :technologist:⚡
 
-Hey there! I'm Burak Boduroğlu👋, a passionate `JavaScript` and `Java` developer with a knack for problem-solving and building efficient web applications. 💻When I'm not coding, you can find me sharing my knowledge and experiences on the `Developer Community` through my blog. 📝Join me on a journey of learning and exploration as we dive into various programming topics and industry trends. Feel free to explore my `Linktree` to discover more about my projects, articles, and social media channels. Let's connect and grow together! 🚀
+Hey there! I'm Burak Boduroğlu👋, a passionate `JavaScript`, `Java` and `.Net` developer with a knack for problem-solving and building efficient web applications. 💻When I'm not coding, you can find me sharing my knowledge and experiences on the `Developer Community` through my blog. 📝Join me on a journey of learning and exploration as we dive into various programming topics and industry trends. Feel free to explore my `Linktree` to discover more about my projects, articles, and social media channels. Let's connect and grow together! 🚀
 
 <hr>
 
@@ -35,13 +35,13 @@ Explore my captivating blog on `Developer Community` and watch the exciting intr
 ### My Languages and Tools 🌱🔭
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,react,vite,materialui,supabase,git,docker,azure,bootstrap,css,html" />
+    <img src="https://skillicons.dev/icons?i=js,java,cs,nodejs,express,spring,dotnet,hibernate,mongodb,docker,azure,bootstrap,css,html" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,mysql,postgres,postman,py,sqlite,md,figma,devto,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,maven,mysql,postgres,postman,py,sqlite,md,figma,devto,github,vscode,visualstudio" />
   </a>
 </p>
 
