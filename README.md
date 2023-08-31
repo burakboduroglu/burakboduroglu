@@ -45,7 +45,7 @@ Explore my captivating blog on `Developer Community` and watch the exciting intr
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=regex,mysql,postgres,sqlite,git,maven,postman,py,docker,figma,cs,dotnet,azure,vscode" />
+    <img src="https://skillicons.dev/icons?i=regex,mysql,postgres,sqlite,git,maven,postman,py,docker,figma,markdown,cs,azure,vscode" />
   </a>
 </p>
 
