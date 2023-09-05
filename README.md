@@ -1,7 +1,9 @@
 <img src="https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif"/>
 
 <div align="center"> 
-<h2>Welcome to My GitHub Page!</h2>
+    <h2>
+        Welcome to My GitHub Page!
+    </h2>
 </div>
 
 ### About :technologist:⚡
