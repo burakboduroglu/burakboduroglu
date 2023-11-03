@@ -14,21 +14,27 @@ Hey there! I'm Burak Boduroğlu👋, a passionate `Software Developer` with a kn
 
 ### Contact 📫:ringed_planet:
 Explore my captivating blog on `Developer Community` and watch the exciting introduction video of my top project on `YouTube`. You can also find my coding challenges on `CodeWars`, `HackerRank`, and `LeetCode`, where I continue to learn and grow. Stay connected and discover more through my  `Linktree` page.⚡
-<div>
+<div align="center">
+    <a href="https://bento.me/burakboduroglu" target="_blank">
+        <img src="https://github.com/burakboduroglu/burakboduroglu/assets/80620802/3513c93c-52cf-4992-8ea6-c2321d179568" width="42px" height="42px" alt="bb"/>
+    </a>
+    <div>
+        <a href="https://bento.me/burakboduroglu" target="_blank">Visit my "Bento" account.</a>
+    </div>
+</div>
+<br>
+<div align="center">
     <p align="center">
-        <a href="https://linktr.ee/burakboduroglu" target="blank">
-            <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="bb"/>
-        </a>
-        <a href="https://dev.to/burakboduroglu" target="blank">
+        <a href="https://dev.to/burakboduroglu" target="_blank">
             <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="bb"/>
         </a>
-        <a href="https://youtube.com/@burakboduroglu" target="blank">
+        <a href="https://youtube.com/@burakboduroglu" target="_blank">
             <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="bb"/>
         </a>
-        <a href="https://www.codewars.com/users/burakboduroglu" target="blank">
+        <a href="https://www.codewars.com/users/burakboduroglu" target="_blank">
             <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="bb"/>
         </a>
-        <a href="https://leetcode.com/BurakBoduroglu/" target="blank">
+        <a href="https://leetcode.com/BurakBoduroglu/" target="_blank">
             <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="bb"/>
         </a>
     </p>
