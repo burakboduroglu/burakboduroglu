@@ -16,7 +16,7 @@ Hey there! I'm Burak Boduroğlu👋, a passionate `Software Developer` with a kn
 Explore my captivating blog on `Developer Community` and watch the exciting introduction video of my top project on `YouTube`. You can also find my coding challenges on `CodeWars`, `HackerRank`, and `LeetCode`, where I continue to learn and grow. Stay connected and discover more through my  `Linktree` page.⚡
 <div align="center">
     <div>
-        <a href="https://bento.me/burakboduroglu" target="_blank"> - Visit my "Bento" account. - </a>
+        <a href="https://bento.me/burakboduroglu" target="_blank">⭐ Visit my "Bento" account. ⭐</a>
     </div>
 </div>
 <br>
