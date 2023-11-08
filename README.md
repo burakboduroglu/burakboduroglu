@@ -44,13 +44,13 @@ Explore my captivating blog on `Developer Community` and watch the exciting intr
 ### My Languages and Tools 🌱🔭 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,java,spring,nodejs,express,react,nextjs,mongodb,mysql,idea,tailwind,bootstrap,postman" />
+    <img src="https://skillicons.dev/icons?i=js,ts,java,spring,hibernate,nodejs,express,react,nextjs,mongodb,mysql,tailwind,bootstrap,idea" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=regex,html,css,postgres,sqlite,git,hibernate,maven,py,docker,figma,markdown,azure,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,maven,postman,git,azure,docker,postgres,sqlite,figma,vscode,regex,markdown,py" />
   </a>
 </p>
 
