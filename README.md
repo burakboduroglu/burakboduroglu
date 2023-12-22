@@ -12,7 +12,7 @@ Hey there! I'm Burak Boduroğlu👋, a passionate `Software Developer` with a kn
 
 <hr>
 
-### Contact 📫:ringed_planet:
+### Contact 📫
 Explore my captivating blog on `Developer Community` and watch the exciting introduction video of my top project on `YouTube`. You can also find my coding challenges on `CodeWars`, `HackerRank`, and `LeetCode`, where I continue to learn and grow. Stay connected and discover more through my  `Linktree` page.⚡
 <div align="center">
     <div>
@@ -33,6 +33,9 @@ Explore my captivating blog on `Developer Community` and watch the exciting intr
         </a>
         <a href="https://leetcode.com/BurakBoduroglu/" target="_blank">
             <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="bb"/>
+        </a>
+        <a href="https://www.kaggle.com/burakboduroglu" target="_blank">
+            <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="bb"/>
         </a>
     </p>
     <div align="center">
