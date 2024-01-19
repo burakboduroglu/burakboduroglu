@@ -28,9 +28,6 @@ Explore my captivating blog on `Developer Community` and watch the exciting intr
         <a href="https://www.codewars.com/users/burakboduroglu" target="_blank">
             <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="bb"/>
         </a>
-        <a href="https://leetcode.com/BurakBoduroglu/" target="_blank">
-            <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="bb"/>
-        </a>
         <a href="https://www.kaggle.com/burakboduroglu" target="_blank">
             <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="bb"/>
         </a>
