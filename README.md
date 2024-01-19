@@ -14,7 +14,7 @@ Hey there! I'm Burak Boduroğlu👋, a passionate `Computer Engineer` with a kna
 
 ### Contact 📫
 
-Explore my captivating blog on `Developer Community` and watch the exciting introduction video of my top project on `YouTube`. You can also find my coding challenges on `CodeWars`, `HackerRank`, and `LeetCode`, where I continue to learn and grow. ⚡
+Explore my captivating blog on `Developer Community` and watch the exciting introduction video of my top project on `YouTube`. You can also find my coding challenges on `CodeWars` and `HackerRank` where I continue to learn and grow. ⚡
 <br>
 
 <div align="center">
