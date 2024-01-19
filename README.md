@@ -8,18 +8,15 @@
 
 ### About :technologist:⚡
 
-Hey there! I'm Burak Boduroğlu👋, a passionate `Computer Engineer` with a knack for problem-solving and building efficient web applications. 💻When I'm not coding, you can find me sharing my knowledge and experiences on the `Developer Community` through my blog. 📝Join me on a journey of learning and exploration as we dive into various programming topics and industry trends. Feel free to explore my `Bento` to discover more about my projects, articles, and social media channels. Let's connect and grow together! 🚀
+Hey there! I'm Burak Boduroğlu👋, a passionate `Computer Engineer` with a knack for problem-solving and building efficient web applications. 💻When I'm not coding, you can find me sharing my knowledge and experiences on the `Developer Community` through my blog. 📝Join me on a journey of learning and exploration as we dive into various programming topics and industry trends. Feel free to explore more about my projects, articles, and social media channels.
 
 <hr>
 
 ### Contact 📫
-Explore my captivating blog on `Developer Community` and watch the exciting introduction video of my top project on `YouTube`. You can also find my coding challenges on `CodeWars`, `HackerRank`, and `LeetCode`, where I continue to learn and grow. Stay connected and discover more through my  `Bento` page.⚡
-<div align="center">
-    <div>
-        <a href="https://bento.me/burakboduroglu" target="_blank">⭐ Visit my "Bento" account. ⭐</a>
-    </div>
-</div>
+
+Explore my captivating blog on `Developer Community` and watch the exciting introduction video of my top project on `YouTube`. You can also find my coding challenges on `CodeWars`, `HackerRank`, and `LeetCode`, where I continue to learn and grow. ⚡
 <br>
+
 <div align="center">
     <p align="center">
         <a href="https://dev.to/burakboduroglu" target="_blank">
@@ -44,7 +41,8 @@ Explore my captivating blog on `Developer Community` and watch the exciting intr
 </div>
 <hr>
 
-### My Languages and Tools 🌱🔭 
+### My Languages and Tools 🌱🔭
+
 <p align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=py,js,ts,java,spring,hibernate,nodejs,express,react,nextjs" />
@@ -57,10 +55,8 @@ Explore my captivating blog on `Developer Community` and watch the exciting intr
     </a>
 </p>
 
-
 <hr>
 
 ### My forked repositories :trophy:
 
 <a href="https://github.com/burakboduroglu/SovosHackathon2022"> Sovos Hackathon 2022</a> repo which we 2. place in Hackathon.
-
