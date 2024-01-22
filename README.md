@@ -19,17 +19,17 @@ Explore my captivating blog on `Developer Community` and watch the exciting intr
 
 <div align="center">
     <p align="center">
-        <a href="https://dev.to/burakboduroglu" target="_blank">
-            <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="bb"/>
-        </a>
-        <a href="https://youtube.com/@burakboduroglu" target="_blank">
-            <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="bb"/>
-        </a>
         <a href="https://www.codewars.com/users/burakboduroglu" target="_blank">
             <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="bb"/>
         </a>
         <a href="https://www.hackerrank.com/profile/burak_boduroglu" target="_blank">
             <img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=whit" alt="bb"/>
+        </a>
+        <a href="https://dev.to/burakboduroglu" target="_blank">
+            <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="bb"/>
+        </a>
+        <a href="https://youtube.com/@burakboduroglu" target="_blank">
+            <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="bb"/>
         </a>
         </p>
     <div align="center">
