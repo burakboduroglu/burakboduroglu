@@ -8,7 +8,7 @@
 
 ### About :technologist:⚡
 
-Hey there! I'm Burak Boduroğlu👋, a passionate `Computer Engineer` with a knack for problem-solving and building efficient web applications. 💻When I'm not coding, you can find me sharing my knowledge and experiences on the `Developer Community` through my blog. 📝Join me on a journey of learning and exploration as we dive into various programming topics and industry trends. Feel free to explore more about my projects, articles, and social media channels.
+Hey there! I'm Burak Boduroğlu👋, a passionate `Full Stack Developer` with a knack for problem-solving and building efficient web applications. 💻When I'm not coding, you can find me sharing my knowledge and experiences on the `Developer Community` through my blog. 📝Join me on a journey of learning and exploration as we dive into various programming topics and industry trends. Feel free to explore more about my projects, articles, and social media channels.
 
 <hr>
 
@@ -42,7 +42,7 @@ Explore my captivating blog on `Developer Community` and watch the exciting intr
 
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=py,js,ts,java,spring,hibernate,nodejs,express,react,nextjs" />
+        <img src="https://skillicons.dev/icons?i=js,ts,java,py,spring,hibernate,nodejs,express,react,nextjs" />
     </a>
 </p>
 
