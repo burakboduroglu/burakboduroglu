@@ -38,7 +38,7 @@ Explore my captivating blog on `Developer Community` and watch the exciting intr
 </div>
 <hr>
 
-### My Languages and Tools 🌱🔭
+### Languages and Tools 🌱🔭
 
 <p align="center">
     <a href="https://skillicons.dev">
