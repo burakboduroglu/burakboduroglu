@@ -31,7 +31,7 @@ Explore my captivating blog on `Developer Community` and watch the exciting intr
         <a href="https://youtube.com/@burakboduroglu" target="_blank">
             <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="bb"/>
         </a>
-        </p>
+    </p>
     <div align="center">
         <img src="https://www.codewars.com/users/burakboduroglu/badges/small" alt="coderwars"/>
     </div>
@@ -51,6 +51,14 @@ Explore my captivating blog on `Developer Community` and watch the exciting intr
        <img src="https://skillicons.dev/icons?i=express,mongodb,mysql,postgres,html,css,tailwind,bootstrap,docker,git,postman,vite,maven" />
     </a>
 </p>
+
+<hr>
+
+### Open Source Project ✨🤝
+
+Educational streaming platform <a href="https://github.com/Acapair"> Acapair
+
+Acapair is a our open-source project with <a href="https://github.com/Tahinli"> Ahmet Kaan Gümüş 
 
 <hr>
 
