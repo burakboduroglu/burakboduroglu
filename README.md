@@ -58,8 +58,6 @@ Explore my captivating blog on `Developer Community` and watch the exciting intr
 
 Educational streaming platform <a href="https://github.com/Acapair"> Acapair
 
-Acapair is a our open-source project with <a href="https://github.com/Tahinli"> Ahmet Kaan Gümüş 
-
 <hr>
 
 ### My forked repositories :trophy:
