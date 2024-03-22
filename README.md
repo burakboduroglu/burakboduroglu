@@ -42,13 +42,13 @@ Explore my captivating blog on `Developer Community` and watch the exciting intr
 
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,prisma,nodejs,express,java,py,spring,hibernate,django" />
+        <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,prisma,nodejs,express,java,py,cs,spring,dotnet,django" />
     </a>
 </p>
 
 <p align="center">
     <a href="https://skillicons.dev">
-       <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,html,css,tailwind,bootstrap,docker,git,postman,vite,maven" />
+       <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,hibernate,html,css,tailwind,bootstrap,docker,git,postman,vite,maven" />
     </a>
 </p>
 
