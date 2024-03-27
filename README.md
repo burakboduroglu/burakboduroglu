@@ -8,7 +8,7 @@
 
 ### About :technologist:⚡
 
-Hey there! I'm Burak Boduroğlu👋, a passionate `Software Engineer` with a knack for problem-solving and building efficient applications. 💻When I'm not coding, you can find me sharing my knowledge and experiences on the `Developer Community` through my blog. 📝Join me on a journey of learning and exploration as we dive into various programming topics and industry trends. Feel free to explore more about my projects, articles, and social media channels.
+💻📱 Hey there! I'm Burak Boduroğlu👋, a passionate `Software Engineer` with a knack for problem-solving and building efficient applications. When I'm not coding, you can find me sharing my knowledge and experiences on the `Developer Community` through my blog. 📝Join me on a journey of learning and exploration as we dive into various programming topics and industry trends. Feel free to explore more about my projects, articles, and social media channels.
 
 <hr>
 
@@ -42,13 +42,13 @@ Explore my captivating blog on `Developer Community` and watch the exciting intr
 
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,prisma,nodejs,express,java,py,cs,spring,dotnet,django" />
+        <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,prisma,nodejs,express,java,go,spring,hibernate" />
     </a>
 </p>
 
 <p align="center">
     <a href="https://skillicons.dev">
-       <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,hibernate,html,css,tailwind,bootstrap,docker,git,postman,vite,maven" />
+       <img src="https://skillicons.dev/icons?i=postgres,mongodb,html,css,tailwind,bootstrap,docker,git,postman,cs,py" />
     </a>
 </p>
 
