@@ -27,10 +27,6 @@ Explore my captivating blog on `Developer Community` and watch the exciting intr
         </a>
         <a href="https://dev.to/burakboduroglu" target="_blank">
             <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="bb"/>
-        </a>
-        <a href="https://youtube.com/@burakboduroglu" target="_blank">
-            <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="bb"/>
-        </a>
     </p>
     <div align="center">
         <img src="https://www.codewars.com/users/burakboduroglu/badges/small" alt="coderwars"/>
