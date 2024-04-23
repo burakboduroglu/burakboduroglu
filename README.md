@@ -38,7 +38,7 @@ Explore my captivating blog on `Developer Community` and watch the exciting intr
 
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,prisma,nodejs,express,java,go,spring" />
+        <img src="https://skillicons.dev/icons?i=go,java,ts,js,nextjs,react,prisma,nodejs,express,spring" />
     </a>
 </p>
 
