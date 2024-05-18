@@ -39,7 +39,7 @@ Explore my captivating blog on `Developer Community` and watch the exciting intr
 #### - Technologies I'm Currently Using 👨🏻‍💻
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=go,ts,js,nextjs,react,prisma,nodejs,express,postgres,tailwind,git" />
+        <img src="https://skillicons.dev/icons?i=go,ts,js,nextjs,react,vite,prisma,nodejs,express,postgres,tailwind" />
     </a>
 </p>
 
