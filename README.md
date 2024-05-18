@@ -46,7 +46,7 @@ Explore my captivating blog on `Developer Community` and watch the exciting intr
 #### - Technologies I Have Experience With ❤️
 <p align="center">
     <a href="https://skillicons.dev">
-       <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mongodb,html,css,bootstrap,docker,py,cs,dotnet" />
+       <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mongodb,html,css,bootstrap,docker,py,cs,git" />
     </a>
 </p>
 
