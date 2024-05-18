@@ -36,18 +36,25 @@ Explore my captivating blog on `Developer Community` and watch the exciting intr
 
 ### Languages and Tools 🌱🔭
 
+#### - Technologies I'm Currently Using 👨🏻‍💻
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=go,java,ts,js,nextjs,react,prisma,nodejs,express,spring" />
+        <img src="https://skillicons.dev/icons?i=go,ts,js,nextjs,react,prisma,nodejs,express,postgres,tailwind,git" />
+    </a>
+</p>
+
+#### - Technologies I Have Experience With ❤️
+<p align="center">
+    <a href="https://skillicons.dev">
+       <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mongodb,html,css,bootstrap,docker,py,cs,dotnet" />
     </a>
 </p>
 
 <p align="center">
-    <a href="https://skillicons.dev">
-       <img src="https://skillicons.dev/icons?i=postgres,mongodb,hibernate,html,css,tailwind,bootstrap,docker,git,py" />
+     <a href="https://github.com/anuraghazra/github-readme-stats">
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakboduroglu&layout=compact&theme=transparent&hide=ejs,html,css,scss" />
     </a>
 </p>
-
 <hr>
 
 ### Open Source Project ✨🤝
