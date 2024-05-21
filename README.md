@@ -36,19 +36,27 @@ Explore my captivating blog on `Developer Community` and watch the exciting intr
 
 ### Languages and Tools 🌱🔭
 
-#### - Technologies I'm Currently Using 👨🏻‍💻
+#### - Backend Technologies I'm Using👨🏻‍💻
 
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=go,ts,java,kotlin,nextjs,react,spring,hibernate,git,redis,postgres,tailwind" />
+        <img src="https://skillicons.dev/icons?i=java,go,kotlin,spring,hibernate,redis,postgres,prisma,mongodb,nodejs" />
     </a>
 </p>
 
-#### - Technologies I Have Experience With ❤️
+#### - Frontend Technologies I'm Using👨🏻‍💻
 
 <p align="center">
     <a href="https://skillicons.dev">
-       <img src="https://skillicons.dev/icons?i=js,vite,prisma,mongodb,css,html,bootstrap,docker,py,cs,nodejs,express" />
+       <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,vite,css,html,bootstrap,tailwind" />
+    </a>
+</p>
+
+#### - Technologies I'm Using👨🏻‍💻
+
+<p align="center">
+    <a href="https://skillicons.dev">
+       <img src="https://skillicons.dev/icons?i=docker,git,npm,aws,postman,vscode,idea" />
     </a>
 </p>
 
