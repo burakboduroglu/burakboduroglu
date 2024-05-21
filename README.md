@@ -36,29 +36,14 @@ Explore my captivating blog on `Developer Community` and watch the exciting intr
 
 ### Languages and Tools 🌱🔭
 
-#### - Backend Technologies I'm Using👨🏻‍💻
+#### - Technologies I'm Currently Using👨🏻‍💻
 
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,go,kotlin,spring,hibernate,redis,kafka,postgres,prisma,mongodb,nodejs" />
+        <img src="https://skillicons.dev/icons?i=ts,js,go,nextjs,react,vite,tailwind,postgres,prisma,mongodb,nodejs" />
     </a>
 </p>
 
-#### - Frontend Technologies I'm Using👨🏻‍💻
-
-<p align="center">
-    <a href="https://skillicons.dev">
-       <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,vite,css,html,bootstrap,tailwind,scss" />
-    </a>
-</p>
-
-#### - Technologies I'm Using👨🏻‍💻
-
-<p align="center">
-    <a href="https://skillicons.dev">
-       <img src="https://skillicons.dev/icons?i=docker,git,npm,maven,aws,vercel,postman,vscode,idea,figma" />
-    </a>
-</p>
 
 <p align="center">
      <a href="https://github.com/anuraghazra/github-readme-stats">
