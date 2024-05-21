@@ -37,6 +37,7 @@ Explore my captivating blog on `Developer Community` and watch the exciting intr
 ### Languages and Tools 🌱🔭
 
 #### - Technologies I'm Currently Using 👨🏻‍💻
+
 <p align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=go,ts,js,nextjs,react,vite,prisma,nodejs,express,postgres,tailwind" />
@@ -44,6 +45,7 @@ Explore my captivating blog on `Developer Community` and watch the exciting intr
 </p>
 
 #### - Technologies I Have Experience With ❤️
+
 <p align="center">
     <a href="https://skillicons.dev">
        <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mongodb,html,css,bootstrap,docker,py,cs,git" />
