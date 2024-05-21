@@ -40,7 +40,7 @@ Explore my captivating blog on `Developer Community` and watch the exciting intr
 
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=ts,js,go,nextjs,react,vite,tailwind,postgres,prisma,mongodb,nodejs" />
+        <img src="https://skillicons.dev/icons?i=ts,js,go,nextjs,react,vite,tailwind,postgres,prisma,mongodb,nodejs,express" />
     </a>
 </p>
 
