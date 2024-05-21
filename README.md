@@ -48,7 +48,7 @@ Explore my captivating blog on `Developer Community` and watch the exciting intr
 
 <p align="center">
     <a href="https://skillicons.dev">
-       <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,vite,css,html,bootstrap,tailwind" />
+       <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,vite,css,html,bootstrap,tailwind,scss" />
     </a>
 </p>
 
@@ -56,7 +56,7 @@ Explore my captivating blog on `Developer Community` and watch the exciting intr
 
 <p align="center">
     <a href="https://skillicons.dev">
-       <img src="https://skillicons.dev/icons?i=docker,git,npm,aws,postman,vscode,idea" />
+       <img src="https://skillicons.dev/icons?i=docker,git,npm,maven,aws,vercel,postman,vscode,idea,figma" />
     </a>
 </p>
 
