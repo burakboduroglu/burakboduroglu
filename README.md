@@ -50,6 +50,7 @@ Explore my captivating blog on `Developer Community` and watch the exciting intr
        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakboduroglu&layout=compact&theme=transparent&hide=ejs,html,css,scss" />
     </a>
 </p>
+
 <hr>
 
 ### Open Source Project ✨🤝
@@ -61,3 +62,7 @@ Educational streaming platform <a href="https://github.com/Acapair"> Acapair
 ### My forked repositories :trophy:
 
 <a href="https://github.com/burakboduroglu/SovosHackathon2022"> Sovos Hackathon 2022</a> repo which we 2. place in Hackathon.
+
+<div align="center"> 
+    <img src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" alt="gif" width="100" height="100"/>
+</div>
