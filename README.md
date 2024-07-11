@@ -38,14 +38,21 @@ Explore my captivating blog on `Developer Community` and watch the exciting intr
 
 #### - Technologies I'm Currently Using👨🏻‍💻
 
-<p align="center">
+<p>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=ts,js,go,nextjs,react,vite,tailwind,postgres,prisma,mongodb,bun,nodejs,express,docker" />
+        <img src="https://skillicons.dev/icons?i=ts,js,go,nextjs,react,vite,tailwind,postgres,mongodb,bun,nodejs,express,docker" />
     </a>
 </p>
 
+#### - Technologies I’ve Experience👨🏻‍💻
 
-<p align="center">
+<p>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=java,spring,hibernate,cs,dotnet,python,redis,mysql" />
+    </a>
+</p>
+
+<p align="center>
      <a href="https://github.com/anuraghazra/github-readme-stats">
        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakboduroglu&layout=compact&theme=transparent&hide=ejs,html,css,scss" />
     </a>
