@@ -52,7 +52,7 @@ Explore my captivating blog on `Developer Community` and watch the exciting intr
     </a>
 </p>
 
-<p align="center>
+<p align="center">
      <a href="https://github.com/anuraghazra/github-readme-stats">
        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakboduroglu&layout=compact&theme=transparent&hide=ejs,html,css,scss" />
     </a>
