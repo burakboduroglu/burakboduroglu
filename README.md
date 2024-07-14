@@ -40,7 +40,7 @@ Explore my captivating blog on `Developer Community` and watch the exciting intr
 
 <p>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=ts,go,java,kotlin,spring,hibernate,react,vite,tailwind,docker,aws" />
+        <img src="https://skillicons.dev/icons?i=ts,js,go,nextjs,react,vite,tailwind,postgres,mongodb,bun,nodejs,express,docker" />
     </a>
 </p>
 
@@ -48,7 +48,7 @@ Explore my captivating blog on `Developer Community` and watch the exciting intr
 
 <p>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,nextjs,mongodb,cs,dotnet,python,redis,mysql,postgres,bun,nodejs,express" />
+        <img src="https://skillicons.dev/icons?i=java,spring,hibernate,cs,dotnet,python,redis,mysql" />
     </a>
 </p>
 
