@@ -36,19 +36,26 @@ Explore my captivating blog on `Developer Community` and watch the exciting intr
 
 ### Languages and Tools 🌱🔭
 
-#### - Technologies I'm Currently Using👨🏻‍💻
+#### Back End Stack 👨🏻‍💻
 
-<p>
+<p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=ts,js,go,nextjs,react,vite,tailwind,postgres,mongodb,bun,nodejs,express,docker" />
+        <img src="https://skillicons.dev/icons?i=nodejs,java,spring,hibernate,go,cs,dotnet" />
     </a>
 </p>
 
-#### - Technologies I’ve Experience👨🏻‍💻
+#### Front End Stack 🧑‍🚀
 
-<p>
+<p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,spring,hibernate,cs,dotnet,python,redis,mysql" />
+        <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,vite,tailwind,bootstrap" />
+    </a>
+</p>
+
+#### Other Stack 🌱
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,git,redis,mysql,python" />
     </a>
 </p>
 
