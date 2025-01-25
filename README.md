@@ -36,28 +36,65 @@ Explore my captivating blog on `Developer Community` and watch the exciting intr
 
 ### Languages and Tools 🌱🔭
 
-#### Back End Stack 👨🏻‍💻
+<div align="center">
+    <table>
+        <tr>
+            <td align="center"><b>Front End</b></td>
+            <td align="center"><b>Back End</b></td>
+            <td align="center"><b>DevOps</b></td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://skillicons.dev">
+                    <img src="https://skillicons.dev/icons?i=js,ts,nextjs" /><br/>
+                    <img src="https://skillicons.dev/icons?i=react,vite,figma" /><br/>
+                    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" />
+                </a>
+            </td>
+            <td>
+                <a href="https://skillicons.dev">
+                    <img src="https://skillicons.dev/icons?i=nodejs,express,bun" /><br/>
+                    <img src="https://skillicons.dev/icons?i=java,spring,hibernate" />
+                </a>
+            </td>
+            <td>
+                <a href="https://skillicons.dev">
+                    <img src="https://skillicons.dev/icons?i=docker,git" /><br/>
+                    <img src="https://skillicons.dev/icons?i=bitbucket,github" />
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center"><b>Database</b></td>
+            <td align="center"><b>Other Languages</b></td>
+            <td align="center"><b>Tools</b></td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://skillicons.dev">
+                    <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" /><br/>
+                    <img src="https://skillicons.dev/icons?i=mysql,redis," />
+                </a>
+            </td>
+            <td>
+                <a href="https://skillicons.dev">
+                    <img src="https://skillicons.dev/icons?i=python,go" /><br/>
+                    <img src="https://skillicons.dev/icons?i=cs" />
+                </a>
+            </td>
+            <td>
+                <a href="https://skillicons.dev">
+                    <img src="https://skillicons.dev/icons?i=vscode,postman" /><br/>
+                    <img src="https://skillicons.dev/icons?i=idea,webstorm" />
+                </a>
+            </td>
+        </tr>
+    </table>
+</div>
 
-<p align="center">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nodejs,java,spring,hibernate,go,cs,dotnet" />
-    </a>
-</p>
+<hr>
 
-#### Front End Stack 🧑‍🚀
-
-<p align="center">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,vite,tailwind,bootstrap" />
-    </a>
-</p>
-
-#### Other Stack 🌱
-<p align="center">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,git,redis,mysql,python" />
-    </a>
-</p>
+### Most Used Languages
 
 <p align="center">
      <a href="https://github.com/anuraghazra/github-readme-stats">
