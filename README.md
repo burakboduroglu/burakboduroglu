@@ -18,20 +18,11 @@ Explore my captivating blog on `Developer Community` and watch the exciting intr
 <br>
 
 <div align="center">
-    <p align="center">
-        <a href="https://www.codewars.com/users/burakboduroglu" target="_blank">
-            <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="bb"/>
+        <a href="https://linktr.ee/burakboduroglu" target="_blank">
+            <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="bb"/>
         </a>
-        <a href="https://www.hackerrank.com/profile/burakboduroglu" target="_blank">
-            <img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=whit" alt="bb"/>
-        </a>
-        <a href="https://dev.to/burakboduroglu" target="_blank">
-            <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="bb"/>
-    </p>
-    <div align="center">
-        <img src="https://www.codewars.com/users/burakboduroglu/badges/small" alt="coderwars"/>
-    </div>
 </div>
+
 <hr>
 
 ### Languages and Tools 🌱🔭
