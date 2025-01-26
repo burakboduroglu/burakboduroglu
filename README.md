@@ -18,9 +18,10 @@ Explore my captivating blog on `Developer Community` and watch the exciting intr
 <br>
 
 <div align="center">
-        <a href="https://linktr.ee/burakboduroglu" target="_blank">
-            <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="bb"/>
-        </a>
+    <p>👨‍🏫📱💻</p>
+     <a href="https://burakboduroglu.gumroad.com/" target="_blank">
+            Check my courses from here.
+    </a>
 </div>
 
 <hr>
