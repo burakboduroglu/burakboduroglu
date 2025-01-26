@@ -38,7 +38,7 @@ This is an advertisement. Support me by purchasing or simply sharing it with oth
                 <a href="https://skillicons.dev">
                     <img src="https://skillicons.dev/icons?i=js,ts,nextjs" /><br/>
                     <img src="https://skillicons.dev/icons?i=react,vite,figma" /><br/>
-                    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" />
+                    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,markdown" />
                 </a>
             </td>
             <td>
@@ -49,8 +49,7 @@ This is an advertisement. Support me by purchasing or simply sharing it with oth
             </td>
             <td>
                 <a href="https://skillicons.dev">
-                    <img src="https://skillicons.dev/icons?i=docker,git" /><br/>
-                    <img src="https://skillicons.dev/icons?i=bitbucket,github" />
+                    <img src="https://skillicons.dev/icons?i=docker,git,bitbucket" /><br/>
                 </a>
             </td>
         </tr>
@@ -63,19 +62,17 @@ This is an advertisement. Support me by purchasing or simply sharing it with oth
             <td>
                 <a href="https://skillicons.dev">
                     <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" /><br/>
-                    <img src="https://skillicons.dev/icons?i=mysql,redis," />
+                    <img src="https://skillicons.dev/icons?i=mysql,redis,sql" />
                 </a>
             </td>
             <td>
                 <a href="https://skillicons.dev">
-                    <img src="https://skillicons.dev/icons?i=python,go" /><br/>
-                    <img src="https://skillicons.dev/icons?i=cs" />
+                    <img src="https://skillicons.dev/icons?i=python,go,cs" /><br/>
                 </a>
             </td>
             <td>
                 <a href="https://skillicons.dev">
-                    <img src="https://skillicons.dev/icons?i=vscode,postman" /><br/>
-                    <img src="https://skillicons.dev/icons?i=idea,webstorm" />
+                    <img src="https://skillicons.dev/icons?i=vscode,postman,webstorm" /><br/>
                 </a>
             </td>
         </tr>
