@@ -14,14 +14,8 @@
 
 ### Contact 📫
 
-Explore my captivating blog on `Developer Community` and watch the exciting introduction video of my top project on `YouTube`. You can also find my coding challenges on `CodeWars` and `HackerRank` where I continue to learn and grow. ⚡
+Explore my captivating blog on `Developer Community` and watch the exciting introduction video of my top project on `YouTube`. You can also find my coding challenges on `HackerRank` where I continue to learn and grow. ⚡
 
-<hr>
-
-### Advertisement. 📢🚀 
-This is an advertisement. Support me by purchasing or simply sharing it with others. Every bit of support means a lot! 🎉
-<a href="https://burakboduroglu.gumroad.com/" target="_blank">Courses Link</a>
-     
 <hr>
 
 ### Languages and Tools 🌱🔭
