@@ -44,6 +44,7 @@ Explore my captivating blog on `Developer Community` and watch the exciting intr
             <td>
                 <a href="https://skillicons.dev">
                     <img src="https://skillicons.dev/icons?i=docker,git,bitbucket" /><br/>
+                    <img src="https://skillicons.dev/icons?i=notion,github," />
                 </a>
             </td>
         </tr>
@@ -56,7 +57,7 @@ Explore my captivating blog on `Developer Community` and watch the exciting intr
             <td>
                 <a href="https://skillicons.dev">
                     <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" /><br/>
-                    <img src="https://skillicons.dev/icons?i=mysql,redis,sql" />
+                    <img src="https://skillicons.dev/icons?i=mysql,redis," />
                 </a>
             </td>
             <td>
