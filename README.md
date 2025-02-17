@@ -38,7 +38,8 @@ Explore my captivating blog on `Developer Community` and watch the exciting intr
             <td>
                 <a href="https://skillicons.dev">
                     <img src="https://skillicons.dev/icons?i=nodejs,express,bun" /><br/>
-                    <img src="https://skillicons.dev/icons?i=java,spring,hibernate" />
+                    <img src="https://skillicons.dev/icons?i=java,spring,hibernate" /><br/>
+                    <img src="https://skillicons.dev/icons?i=cs,dotnet," />
                 </a>
             </td>
             <td>
