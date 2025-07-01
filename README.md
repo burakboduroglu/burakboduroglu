@@ -8,7 +8,7 @@
 
 ### About :technologist:⚡
 
-💻📱 Hey there! I'm Burak Boduroğlu👋, a passionate `Software Engineer` with a knack for problem-solving and building efficient applications. When I'm not coding, you can find me sharing my knowledge and experiences on the `Developer Community` through my blog. 📝Join me on a journey of learning and exploration as we dive into various programming topics and industry trends. Feel free to explore more about my projects, articles, and social media channels.
+Hey there! I'm Burak Boduroğlu a Software Engineer with a BSc in Computer Engineering and an MSc in Astronautical Engineering. I’m passionate about building efficient applications and solving real-world problems through code. Outside of development, I love sharing insights and experiences on my blog within the developer community.
 
 <hr>
 
