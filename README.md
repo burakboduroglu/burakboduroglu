@@ -68,7 +68,8 @@ Explore my captivating blog on `Developer Community` and watch the exciting intr
             </td>
             <td>
                 <a href="https://skillicons.dev">
-                    <img src="https://skillicons.dev/icons?i=vscode,postman,webstorm" /><br/>
+                    <img src="https://skillicons.dev/icons?i=matlab,vscode,postman" /><br/>
+                    <img src="https://skillicons.dev/icons?i=webstorm,pycharm" /><br/>
                 </a>
             </td>
         </tr>
