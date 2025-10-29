@@ -8,13 +8,13 @@
 
 ### About :technologist:⚡
 
-Hey there! I'm Burak Boduroğlu a Software Engineer with a BSc in Computer Engineering and an MSc in Astronautical Engineering. I’m passionate about building efficient applications and solving real-world problems through code. Outside of development, I love sharing insights and experiences on my blog within the developer community.
+I build enterprise process automations and generative AI solutions. With UiPath Agentic AI, Microsoft Copilot Studio, and Power Platform, I design end‑to‑end automations; with Python, C#, and Java, I deliver robust API integrations and backends. I use Spring Boot for microservices and React/Next.js for performant UIs. I follow Agile & Scrum with JIRA and create value by combining GenAI with practical automation.
 
 <hr>
 
 ### Contact 📫
 
-Explore my captivating blog on `Developer Community` and watch the exciting introduction video of my top project on `YouTube`. You can also find my coding challenges on `HackerRank` where I continue to learn and grow. ⚡
+Explore my captivating blog on `Developer Community` and watch the exciting introduction video of my top project on `YouTube`. You can also find my coding challenges on `HackerRank`, where I continue to learn and grow. ⚡
 
 <hr>
 
