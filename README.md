@@ -78,16 +78,6 @@ Explore my captivating blog on `Developer Community` and watch the exciting intr
 
 <hr>
 
-### Most Used Languages
-
-<p align="center">
-     <a href="https://github.com/anuraghazra/github-readme-stats">
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakboduroglu&layout=compact&theme=transparent&hide=ejs,html,css,scss" />
-    </a>
-</p>
-
-<hr>
-
 ### Open Source Project ✨🤝
 
 Educational streaming platform <a href="https://github.com/Acapair"> Acapair
