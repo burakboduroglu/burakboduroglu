@@ -8,7 +8,7 @@
 
 ### About :technologist:⚡
 
-I build enterprise process automations and generative AI solutions. With UiPath Agentic AI, Microsoft Copilot Studio, and Power Platform, I design end‑to‑end automations; with Python, C#, and Java, I deliver robust API integrations and backends. I use Spring Boot for microservices and React/Next.js for performant UIs. I follow Agile & Scrum with JIRA and create value by combining GenAI with practical automation.
+Full-Stack Engineer specializing in building scalable web applications and enterprise solutions. I develop robust backends with Spring Boot & Java, create performant frontends with Next.js & React, and leverage TypeScript for type-safe code. I also build enterprise automations using UiPath, Microsoft Copilot Studio & Power Platform.
 
 <hr>
 
