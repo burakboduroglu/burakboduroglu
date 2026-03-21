@@ -8,13 +8,17 @@
 
 ### About :technologist:⚡
 
-Full-Stack Engineer specializing in building scalable web applications and enterprise solutions. I develop robust backends with Spring Boot & Java, create performant frontends with Next.js & React, and leverage TypeScript for type-safe code. I also build enterprise automations using UiPath, Microsoft Copilot Studio & Power Platform.
+I build web applications and automation solutions with a strong focus on context engineering and prompt engineering. My core stack includes Next.js, Java/Spring Boot, PostgreSQL, n8n, and container-based deployments with Docker/Podman on VPS environments.
+
+I design fullstack systems with TypeScript end-to-end, implement observable automation workflows, and improve LLM reliability through context modeling, prompt templates, guardrails, and evaluation loops.
 
 <hr>
 
 ### Contact 📫
 
-Explore my captivating blog on `Developer Community` and watch the exciting introduction video of my top project on `YouTube`. You can also find my coding challenges on `HackerRank`, where I continue to learn and grow. ⚡
+You can learn more about my work and focus areas on my website: [burakboduroglu.com.tr](https://burakboduroglu.com.tr/tr/).
+
+I am open to collaboration on fullstack products, automation pipelines, and LLM-powered application workflows.
 
 <hr>
 
@@ -30,16 +34,14 @@ Explore my captivating blog on `Developer Community` and watch the exciting intr
         <tr>
             <td>
                 <a href="https://skillicons.dev">
-                    <img src="https://skillicons.dev/icons?i=js,ts,nextjs" /><br/>
-                    <img src="https://skillicons.dev/icons?i=react,vite,figma" /><br/>
-                    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,markdown" />
+                    <img src="https://skillicons.dev/icons?i=ts,nextjs,react" /><br/>
+                    <img src="https://skillicons.dev/icons?i=vite,tailwind,figma" /><br/>
                 </a>
             </td>
             <td>
                 <a href="https://skillicons.dev">
                     <img src="https://skillicons.dev/icons?i=nodejs,express,bun" /><br/>
                     <img src="https://skillicons.dev/icons?i=java,spring,hibernate" /><br/>
-                    <img src="https://skillicons.dev/icons?i=cs,dotnet," />
                 </a>
             </td>
             <td>
@@ -51,25 +53,14 @@ Explore my captivating blog on `Developer Community` and watch the exciting intr
         </tr>
         <tr>
             <td align="center"><b>Database</b></td>
-            <td align="center"><b>Other Languages</b></td>
-            <td align="center"><b>Tools</b></td>
+            <td align="center"><b></b></td>
+            <td align="center"><b></b></td>
         </tr>
         <tr>
             <td>
                 <a href="https://skillicons.dev">
                     <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" /><br/>
                     <img src="https://skillicons.dev/icons?i=mysql,redis," />
-                </a>
-            </td>
-            <td>
-                <a href="https://skillicons.dev">
-                    <img src="https://skillicons.dev/icons?i=python,go,cs" /><br/>
-                </a>
-            </td>
-            <td>
-                <a href="https://skillicons.dev">
-                    <img src="https://skillicons.dev/icons?i=matlab,vscode,postman" /><br/>
-                    <img src="https://skillicons.dev/icons?i=webstorm,pycharm" /><br/>
                 </a>
             </td>
         </tr>
@@ -80,13 +71,13 @@ Explore my captivating blog on `Developer Community` and watch the exciting intr
 
 ### Open Source Project ✨🤝
 
-Educational streaming platform <a href="https://github.com/Acapair"> Acapair
+Educational streaming platform <a href="https://github.com/Acapair">Acapair</a>
 
 <hr>
 
 ### My forked repositories :trophy:
 
-<a href="https://github.com/burakboduroglu/SovosHackathon2022"> Sovos Hackathon 2022</a> repo which we 2. place in Hackathon.
+<a href="https://github.com/burakboduroglu/SovosHackathon2022">Sovos Hackathon 2022</a> repository where we ranked 2nd in the hackathon.
 
 <div align="center"> 
     <img src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" alt="gif" width="100" height="100"/>
