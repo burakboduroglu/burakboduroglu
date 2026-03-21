@@ -60,7 +60,7 @@ I am open to collaboration on fullstack products, automation pipelines, and LLM-
             <td>
                 <a href="https://skillicons.dev">
                     <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" /><br/>
-                    <img src="https://skillicons.dev/icons?i=mysql,redis," />
+                    <img src="https://skillicons.dev/icons?i=redis," />
                 </a>
             </td>
         </tr>
