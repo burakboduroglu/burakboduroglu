@@ -46,7 +46,7 @@ I am open to collaboration on fullstack products, automation pipelines, and LLM-
             </td>
             <td>
                 <a href="https://skillicons.dev">
-                    <img src="https://skillicons.dev/icons?i=docker,git,bitbucket" /><br/>
+                    <img src="https://skillicons.dev/icons?i=docker,git,gitlab" /><br/>
                     <img src="https://skillicons.dev/icons?i=notion,github," />
                 </a>
             </td>
