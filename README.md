@@ -14,14 +14,6 @@ I design fullstack systems with TypeScript end-to-end, implement observable auto
 
 <hr>
 
-### Contact 📫
-
-You can learn more about my work and focus areas on my website: [burakboduroglu.com.tr](https://burakboduroglu.com.tr/tr/).
-
-I am open to collaboration on fullstack products, automation pipelines, and LLM-powered application workflows.
-
-<hr>
-
 ### Languages and Tools 🌱🔭
 
 <div align="center">
@@ -30,6 +22,7 @@ I am open to collaboration on fullstack products, automation pipelines, and LLM-
             <td align="center"><b>Front End</b></td>
             <td align="center"><b>Back End</b></td>
             <td align="center"><b>DevOps</b></td>
+            <td align="center"><b>Database</b></td>
         </tr>
         <tr>
             <td>
@@ -50,14 +43,7 @@ I am open to collaboration on fullstack products, automation pipelines, and LLM-
                     <img src="https://skillicons.dev/icons?i=notion,github," />
                 </a>
             </td>
-        </tr>
-        <tr>
-            <td align="center"><b>Database</b></td>
-            <td align="center"><b></b></td>
-            <td align="center"><b></b></td>
-        </tr>
-        <tr>
-            <td>
+             <td>
                 <a href="https://skillicons.dev">
                     <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" /><br/>
                     <img src="https://skillicons.dev/icons?i=redis," />
@@ -66,3 +52,15 @@ I am open to collaboration on fullstack products, automation pipelines, and LLM-
         </tr>
     </table>
 </div>
+
+<hr>
+
+### Contact 📫
+
+You can learn more about my work and focus areas on my website: [burakboduroglu.com.tr](https://burakboduroglu.com.tr/tr/).
+
+I am open to collaboration on fullstack products, automation pipelines, and LLM-powered application workflows.
+
+
+
+
