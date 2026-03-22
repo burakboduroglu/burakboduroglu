@@ -66,19 +66,3 @@ I am open to collaboration on fullstack products, automation pipelines, and LLM-
         </tr>
     </table>
 </div>
-
-<hr>
-
-### Open Source Project ✨🤝
-
-Educational streaming platform <a href="https://github.com/Acapair">Acapair</a>
-
-<hr>
-
-### My forked repositories :trophy:
-
-<a href="https://github.com/burakboduroglu/SovosHackathon2022">Sovos Hackathon 2022</a> repository where we ranked 2nd in the hackathon.
-
-<div align="center"> 
-    <img src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" alt="gif" width="100" height="100"/>
-</div>
