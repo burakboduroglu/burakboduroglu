@@ -8,7 +8,7 @@
 
 ### About :technologist:⚡
 
-I build web applications and automation solutions with a strong focus on context engineering and prompt engineering. My core stack includes Next.js, Java/Spring Boot, PostgreSQL, n8n, and container-based deployments with Docker/Podman on VPS environments.
+I build web applications and automation solutions with a strong focus on context engineering and prompt engineering. My core stack includes Next.js, Node.js, Java/Spring Boot, PostgreSQL, n8n, and container-based deployments with Docker/Podman on VPS environments.
 
 I design fullstack systems with TypeScript end-to-end, implement observable automation workflows, and improve LLM reliability through context modeling, prompt templates, guardrails, and evaluation loops.
 
