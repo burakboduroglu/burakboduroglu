@@ -38,7 +38,7 @@ I build web applications and automation solutions with a strong focus on context
             <td>
                 <a href="https://skillicons.dev">
                     <img src="https://skillicons.dev/icons?i=docker,git,gitlab" /><br/>
-                    <img src="https://skillicons.dev/icons?i=notion,github," />
+                    <img src="https://skillicons.dev/icons?i=obsidian,github," />
                 </a>
             </td>
              <td>
