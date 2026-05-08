@@ -38,13 +38,13 @@ I build web applications and automation solutions with a strong focus on context
             <td>
                 <a href="https://skillicons.dev">
                     <img src="https://skillicons.dev/icons?i=docker,git,gitlab" /><br/>
-                    <img src="https://skillicons.dev/icons?i=obsidian,github," />
+                    <img src="https://skillicons.dev/icons?i=obsidian,github,cloudflare" />
                 </a>
             </td>
              <td>
                 <a href="https://skillicons.dev">
                     <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" /><br/>
-                    <img src="https://skillicons.dev/icons?i=redis," />
+                    <img src="https://skillicons.dev/icons?i=redis,supabase" />
                 </a>
             </td>
         </tr>
