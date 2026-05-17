@@ -32,7 +32,7 @@ I build web applications and automation solutions with a strong focus on context
             <td>
                 <a href="https://skillicons.dev">
                     <img src="https://skillicons.dev/icons?i=nodejs,express,bun" /><br/>
-                    <img src="https://skillicons.dev/icons?i=java,spring," /><br/>
+                    <img src="https://skillicons.dev/icons?i=java,spring,vitest" /><br/>
                 </a>
             </td>
             <td>
