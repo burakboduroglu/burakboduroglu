@@ -55,4 +55,4 @@ I build web applications and automation solutions with a strong focus on context
 
 ### Contact 📫
 
-You can learn more about my work and focus areas on my website: [burakboduroglu.com.tr](https://burakboduroglu.com.tr/tr/).
+You can learn more about my work and focus areas on my website: [burakboduroglu.com.tr](https://burakboduroglu.com.tr).
