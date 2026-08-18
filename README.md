@@ -8,7 +8,7 @@
 
 I build web applications and automation solutions with a strong focus on context engineering and prompt engineering. My core stack includes Next.js, Node.js, TypeScript ,Java/Spring Boot, PostgreSQL, n8n, and container-based deployments with Docker/Podman on VPS environments.
 
-<hr>
+<br>
 
 <div align="center">
     <table>
@@ -46,9 +46,3 @@ I build web applications and automation solutions with a strong focus on context
         </tr>
     </table>
 </div>
-
-<hr>
-
-### Contact 📫
-
-You can learn more about my work and focus areas on my website: [burakboduroglu.com.tr](https://burakboduroglu.com.tr).
