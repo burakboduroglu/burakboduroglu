@@ -46,3 +46,15 @@ I build web applications and automation solutions with a strong focus on context
         </tr>
     </table>
 </div>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/burakboduroglu">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=burakboduroglu&amp;bg_color=00000000&amp;color=8b949e&amp;title_color=8b949e&amp;line=f2cc60&amp;point=ffdf5d&amp;area_color=f2cc60&amp;area=true&amp;hide_border=true&amp;grid=false&amp;height=300&amp;days=31&amp;custom_title=Contribution%20activity%20%C2%B7%20last%2031%20days"
+      width="100%"
+      alt="Burak Boduroglu contribution activity over the last 31 days"
+    >
+  </a>
+</p>
