@@ -6,13 +6,9 @@
     </h2>
 </div>
 
-### About :technologist:⚡
-
 I build web applications and automation solutions with a strong focus on context engineering and prompt engineering. My core stack includes Next.js, Node.js, TypeScript ,Java/Spring Boot, PostgreSQL, n8n, and container-based deployments with Docker/Podman on VPS environments.
 
 <hr>
-
-### Languages and Tools 🌱🔭
 
 <div align="center">
     <table>
