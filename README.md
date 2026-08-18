@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif"/>
+<img src="https://pbs.twimg.com/profile_banners/1493197062216851459/1787061179/1080x360"/>
 
 <div align="center"> 
     <h2>
