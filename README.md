@@ -6,7 +6,7 @@
     </h2>
 </div>
 
-Software engineer building production web, desktop, and mobile applications on a TypeScript stack, owning the full cycle from architecture to deployment. Works across Docker, Cloudflare, and PostgreSQL based infrastructure, and uses context-engineered agentic workflows (Claude Code, automated verification loops) to ship fast without trading away code quality.Software engineer building production web, desktop, and mobile applications on a TypeScript stack, owning the full cycle from architecture to deployment. Works across Docker, Cloudflare, and PostgreSQL based infrastructure, and uses context-engineered agentic workflows (Claude Code, automated verification loops) to ship fast without trading away code quality.
+Software engineer building production web, desktop, and mobile applications on a TypeScript stack, owning the full cycle from architecture to deployment. Works across Docker, Cloudflare, and PostgreSQL based infrastructure, and uses context-engineered agentic workflows (Claude Code, automated verification loops) to ship fast without trading away code quality.
 
 <br>
 
