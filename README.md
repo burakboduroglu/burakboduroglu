@@ -6,7 +6,7 @@
     </h2>
 </div>
 
-I build web applications and automation solutions with a strong focus on context engineering and prompt engineering. My core stack includes Next.js, Node.js, TypeScript ,Java/Spring Boot, PostgreSQL, n8n, and container-based deployments with Docker/Podman on VPS environments.
+Software engineer building production web, desktop, and mobile applications on a TypeScript stack, owning the full cycle from architecture to deployment. Works across Docker, Cloudflare, and PostgreSQL based infrastructure, and uses context-engineered agentic workflows (Claude Code, automated verification loops) to ship fast without trading away code quality.Software engineer building production web, desktop, and mobile applications on a TypeScript stack, owning the full cycle from architecture to deployment. Works across Docker, Cloudflare, and PostgreSQL based infrastructure, and uses context-engineered agentic workflows (Claude Code, automated verification loops) to ship fast without trading away code quality.
 
 <br>
 
